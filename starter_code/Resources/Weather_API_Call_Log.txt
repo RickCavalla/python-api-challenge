@@ -1,0 +1,3037 @@
+Weather API Call Log
+--------------------
+Calling Open Weather API:
+    Iteration: 0
+    City: yellowknife
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yellowknife
+    Data retrieved 66.2 42 20 6.93 1561520023
+Calling Open Weather API:
+    Iteration: 1
+    City: attawapiskat
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=attawapiskat
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 2
+    City: torbay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=torbay
+    Data retrieved 46.99 87 5 9.17 1561519850
+Calling Open Weather API:
+    Iteration: 3
+    City: the pas
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=the pas
+    Data retrieved 62.6 72 20 5.82 1561519851
+Calling Open Weather API:
+    Iteration: 4
+    City: iqaluit
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=iqaluit
+    Data retrieved 46.4 65 20 4.7 1561520024
+Calling Open Weather API:
+    Iteration: 5
+    City: tuktoyaktuk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tuktoyaktuk
+    Data retrieved 39.2 84 90 19.46 1561520024
+Calling Open Weather API:
+    Iteration: 6
+    City: hay river
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hay river
+    Data retrieved 60.8 55 20 6.93 1561520027
+Calling Open Weather API:
+    Iteration: 7
+    City: chapais
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chapais
+    Data retrieved 59 93 90 11.41 1561520027
+Calling Open Weather API:
+    Iteration: 8
+    City: port hardy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port hardy
+    Data retrieved 60.8 59 75 12.75 1561519994
+Calling Open Weather API:
+    Iteration: 9
+    City: norman wells
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=norman wells
+    Data retrieved 48.2 87 90 10.29 1561520027
+Calling Open Weather API:
+    Iteration: 10
+    City: thompson
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=thompson
+    Data retrieved 57.2 87 90 6.93 1561520028
+Calling Open Weather API:
+    Iteration: 11
+    City: haines junction
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=haines junction
+    Data retrieved 64.16 50 45 4.45 1561520028
+Calling Open Weather API:
+    Iteration: 12
+    City: fort nelson
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fort nelson
+    Data retrieved 73.4 46 75 4.7 1561520028
+Calling Open Weather API:
+    Iteration: 13
+    City: pangnirtung
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pangnirtung
+    Data retrieved 51.02 52 0 2.62 1561520028
+Calling Open Weather API:
+    Iteration: 14
+    City: clyde river
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=clyde river
+    Data retrieved 30.2 100 75 10.29 1561520028
+Calling Open Weather API:
+    Iteration: 15
+    City: rimbey
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rimbey
+    Data retrieved 53.6 81 75 4.7 1561520028
+Calling Open Weather API:
+    Iteration: 16
+    City: sept-iles
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sept-iles
+    Data retrieved 53.6 71 40 4.7 1561519833
+Calling Open Weather API:
+    Iteration: 17
+    City: kenora
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kenora
+    Data retrieved 66.2 82 75 4.7 1561520029
+Calling Open Weather API:
+    Iteration: 18
+    City: assiniboia
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=assiniboia
+    Data retrieved 61.1 68 48 6.2 1561520029
+Calling Open Weather API:
+    Iteration: 19
+    City: humboldt
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=humboldt
+    Data retrieved 57.5 85 69 4.27 1561520029
+Calling Open Weather API:
+    Iteration: 20
+    City: thessalon
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=thessalon
+    Data retrieved 64.4 93 90 5.82 1561520029
+Calling Open Weather API:
+    Iteration: 21
+    City: la ronge
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=la ronge
+    Data retrieved 57.2 76 75 2.24 1561520030
+Calling Open Weather API:
+    Iteration: 22
+    City: alexandria
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=alexandria
+    Data retrieved 73.99 94 1 8.32 1561520030
+Calling Open Weather API:
+    Iteration: 23
+    City: hare bay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hare bay
+    Data retrieved 48.2 93 75 2.24 1561520030
+Calling Open Weather API:
+    Iteration: 24
+    City: dolbeau
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dolbeau
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 25
+    City: aklavik
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=aklavik
+    Data retrieved 41 65 75 13.87 1561520030
+Calling Open Weather API:
+    Iteration: 26
+    City: mayo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mayo
+    Data retrieved 73.4 28 90 9.17 1561520030
+Calling Open Weather API:
+    Iteration: 27
+    City: cape town
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cape town
+    Data retrieved 59 76 0 8.05 1561519995
+Calling Open Weather API:
+    Iteration: 28
+    City: bredasdorp
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bredasdorp
+    Data retrieved 60.8 77 84 12.75 1561520031
+Calling Open Weather API:
+    Iteration: 29
+    City: plettenberg bay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=plettenberg bay
+    Data retrieved 50.3 81 0 3.67 1561520031
+Calling Open Weather API:
+    Iteration: 30
+    City: hermanus
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hermanus
+    Data retrieved 57.99 91 73 4 1561520031
+Calling Open Weather API:
+    Iteration: 31
+    City: kruisfontein
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kruisfontein
+    Data retrieved 54.08 91 100 13.24 1561520031
+Calling Open Weather API:
+    Iteration: 32
+    City: saldanha
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saldanha
+    Data retrieved 59.84 79 45 1.5 1561520032
+Calling Open Weather API:
+    Iteration: 33
+    City: kokstad
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kokstad
+    Data retrieved 38.42 95 57 3.44 1561520032
+Calling Open Weather API:
+    Iteration: 34
+    City: port alfred
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port alfred
+    Data retrieved 60.01 93 30 7 1561520032
+Calling Open Weather API:
+    Iteration: 35
+    City: port shepstone
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port shepstone
+    Data retrieved 51.92 92 0 3.49 1561519925
+Calling Open Weather API:
+    Iteration: 36
+    City: port elizabeth
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port elizabeth
+    Data retrieved 78.8 94 1 4.7 1561519991
+Calling Open Weather API:
+    Iteration: 37
+    City: robertson
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=robertson
+    Data retrieved 47.78 96 78 4.36 1561520032
+Calling Open Weather API:
+    Iteration: 38
+    City: east london
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=east london
+    Data retrieved 59 93 90 16.11 1561519802
+Calling Open Weather API:
+    Iteration: 39
+    City: butterworth
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=butterworth
+    Data retrieved 86 79 75 4.7 1561520035
+Calling Open Weather API:
+    Iteration: 40
+    City: hobart
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hobart
+    Data retrieved 55.99 54 0 8.05 1561519965
+Calling Open Weather API:
+    Iteration: 41
+    City: carnarvon
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=carnarvon
+    Data retrieved 43.28 34 0 10.47 1561520036
+Calling Open Weather API:
+    Iteration: 42
+    City: roma
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=roma
+    Data retrieved 75.99 73 0 2.24 1561520036
+Calling Open Weather API:
+    Iteration: 43
+    City: albany
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=albany
+    Data retrieved 73.4 60 20 9.17 1561519886
+Calling Open Weather API:
+    Iteration: 44
+    City: busselton
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=busselton
+    Data retrieved 66 70 0 36.69 1561520036
+Calling Open Weather API:
+    Iteration: 45
+    City: biloela
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=biloela
+    Data retrieved 59.3 85 100 21.43 1561520036
+Calling Open Weather API:
+    Iteration: 46
+    City: new norfolk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=new norfolk
+    Data retrieved 55.99 54 0 8.05 1561520037
+Calling Open Weather API:
+    Iteration: 47
+    City: esperance
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=esperance
+    Data retrieved 80.01 78 20 4.7 1561520040
+Calling Open Weather API:
+    Iteration: 48
+    City: alyangula
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=alyangula
+    Data retrieved 80.6 42 57 12.75 1561520040
+Calling Open Weather API:
+    Iteration: 49
+    City: colac
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=colac
+    Data retrieved 59 78 0 3 1561520040
+Calling Open Weather API:
+    Iteration: 50
+    City: port augusta
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port augusta
+    Data retrieved 66.2 37 0 9.17 1561520040
+Calling Open Weather API:
+    Iteration: 51
+    City: broome
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=broome
+    Data retrieved 59 100 100 9.17 1561520040
+Calling Open Weather API:
+    Iteration: 52
+    City: portland
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=portland
+    Data retrieved 68 63 20 8.05 1561519568
+Calling Open Weather API:
+    Iteration: 53
+    City: nelson bay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nelson bay
+    Data retrieved 66.99 52 75 14.99 1561520041
+Calling Open Weather API:
+    Iteration: 54
+    City: mildura
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mildura
+    Data retrieved 66.99 48 0 10.29 1561520041
+Calling Open Weather API:
+    Iteration: 55
+    City: flinders
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=flinders
+    Data retrieved 64 55 75 5.82 1561520041
+Calling Open Weather API:
+    Iteration: 56
+    City: mareeba
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mareeba
+    Data retrieved 78.01 57 90 11.41 1561520041
+Calling Open Weather API:
+    Iteration: 57
+    City: emerald
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=emerald
+    Data retrieved 69.8 60 90 13.87 1561520041
+Calling Open Weather API:
+    Iteration: 58
+    City: port hedland
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port hedland
+    Data retrieved 80.6 15 22 16.11 1561520041
+Calling Open Weather API:
+    Iteration: 59
+    City: port lincoln
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port lincoln
+    Data retrieved 59.48 56 0 17.18 1561520042
+Calling Open Weather API:
+    Iteration: 60
+    City: ulladulla
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ulladulla
+    Data retrieved 61 55 75 5.82 1561520042
+Calling Open Weather API:
+    Iteration: 61
+    City: wollongong
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wollongong
+    Data retrieved 66 72 75 17.22 1561519939
+Calling Open Weather API:
+    Iteration: 62
+    City: ngukurr
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ngukurr
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 63
+    City: nhulunbuy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nhulunbuy
+    Data retrieved 78.8 57 75 16.11 1561520042
+Calling Open Weather API:
+    Iteration: 64
+    City: byron bay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=byron bay
+    Data retrieved 66.2 82 75 9.17 1561520045
+Calling Open Weather API:
+    Iteration: 65
+    City: yulara
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yulara
+    Data retrieved 66.2 17 0 9.17 1561520045
+Calling Open Weather API:
+    Iteration: 66
+    City: hervey bay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hervey bay
+    Data retrieved 68 93 90 10.29 1561520045
+Calling Open Weather API:
+    Iteration: 67
+    City: karratha
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=karratha
+    Data retrieved 81.62 16 98 10.63 1561519759
+Calling Open Weather API:
+    Iteration: 68
+    City: broken hill
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=broken hill
+    Data retrieved 64.4 39 0 13.87 1561520046
+Calling Open Weather API:
+    Iteration: 69
+    City: roebourne
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=roebourne
+    Data retrieved 81.98 15 81 11.61 1561520046
+Calling Open Weather API:
+    Iteration: 70
+    City: port macquarie
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port macquarie
+    Data retrieved 64 93 75 5.82 1561520046
+Calling Open Weather API:
+    Iteration: 71
+    City: mount gambier
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mount gambier
+    Data retrieved 60.8 63 80 12.75 1561519994
+Calling Open Weather API:
+    Iteration: 72
+    City: chokurdakh
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chokurdakh
+    Data retrieved 77.12 25 0 10.25 1561520046
+Calling Open Weather API:
+    Iteration: 73
+    City: saskylakh
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saskylakh
+    Data retrieved 84.32 27 45 10.51 1561520046
+Calling Open Weather API:
+    Iteration: 74
+    City: cherskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cherskiy
+    Data retrieved 76.4 15 67 14.9 1561520047
+Calling Open Weather API:
+    Iteration: 75
+    City: dikson
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dikson
+    Data retrieved 32.84 96 87 20.67 1561520047
+Calling Open Weather API:
+    Iteration: 76
+    City: amderma
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=amderma
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 77
+    City: kytmanovo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kytmanovo
+    Data retrieved 61.82 69 71 4.97 1561520047
+Calling Open Weather API:
+    Iteration: 78
+    City: verkhnevilyuysk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=verkhnevilyuysk
+    Data retrieved 74.6 51 0 4.21 1561519760
+Calling Open Weather API:
+    Iteration: 79
+    City: tigil
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tigil
+    Data retrieved 61.28 61 8 15.82 1561520051
+Calling Open Weather API:
+    Iteration: 80
+    City: tiksi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tiksi
+    Data retrieved 59.84 53 51 4.74 1561519982
+Calling Open Weather API:
+    Iteration: 81
+    City: kholodnyy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kholodnyy
+    Data retrieved 60.56 49 31 16.08 1561520051
+Calling Open Weather API:
+    Iteration: 82
+    City: mirnyy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mirnyy
+    Data retrieved 57.32 76 90 6.44 1561520051
+Calling Open Weather API:
+    Iteration: 83
+    City: belushya guba
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=belushya guba
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 84
+    City: kamenka
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kamenka
+    Data retrieved 54.98 82 24 8.08 1561520051
+Calling Open Weather API:
+    Iteration: 85
+    City: anadyr
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=anadyr
+    Data retrieved 50 76 90 13.42 1561520051
+Calling Open Weather API:
+    Iteration: 86
+    City: lukovetskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lukovetskiy
+    Data retrieved 53.6 81 20 4.47 1561520052
+Calling Open Weather API:
+    Iteration: 87
+    City: ostrovnoy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ostrovnoy
+    Data retrieved 49.58 63 0 12.48 1561520052
+Calling Open Weather API:
+    Iteration: 88
+    City: nizhneyansk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nizhneyansk
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 89
+    City: mys shmidta
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mys shmidta
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 90
+    City: nikolskoye
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nikolskoye
+    Data retrieved 61 67 0 2.24 1561519990
+Calling Open Weather API:
+    Iteration: 91
+    City: tazovskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tazovskiy
+    Data retrieved 42.56 58 0 7.74 1561519795
+Calling Open Weather API:
+    Iteration: 92
+    City: okha
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=okha
+    Data retrieved 42.56 92 99 22.24 1561520052
+Calling Open Weather API:
+    Iteration: 93
+    City: pervomayskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pervomayskiy
+    Data retrieved 56.24 82 79 4.52 1561520053
+Calling Open Weather API:
+    Iteration: 94
+    City: borogontsy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=borogontsy
+    Data retrieved 74.24 32 34 4.21 1561520053
+Calling Open Weather API:
+    Iteration: 95
+    City: beringovskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=beringovskiy
+    Data retrieved 42.92 96 100 14.5 1561520053
+Calling Open Weather API:
+    Iteration: 96
+    City: mnogovershinnyy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mnogovershinnyy
+    Data retrieved 45.08 85 100 7.92 1561520053
+Calling Open Weather API:
+    Iteration: 97
+    City: kargopol
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kargopol
+    Data retrieved 50.84 94 99 4.99 1561520053
+Calling Open Weather API:
+    Iteration: 98
+    City: oktyabrskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=oktyabrskiy
+    Data retrieved 64 76 0 2.24 1561520054
+Calling Open Weather API:
+    Iteration: 99
+    City: provideniya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=provideniya
+    Data retrieved 50 71 90 22.37 1561520054
+Calling Open Weather API:
+    Iteration: 100
+    City: taldan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=taldan
+    Data retrieved 70.64 45 0 6.71 1561520054
+Calling Open Weather API:
+    Iteration: 101
+    City: kamen-na-obi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kamen-na-obi
+    Data retrieved 66.86 72 0 7.65 1561520054
+Calling Open Weather API:
+    Iteration: 102
+    City: khatanga
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khatanga
+    Data retrieved 59.12 62 100 15.68 1561520054
+Calling Open Weather API:
+    Iteration: 103
+    City: lokosovo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lokosovo
+    Data retrieved 51.56 66 100 15.88 1561520054
+Calling Open Weather API:
+    Iteration: 104
+    City: togur
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=togur
+    Data retrieved 71.72 62 67 7.92 1561520055
+Calling Open Weather API:
+    Iteration: 105
+    City: leningradskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=leningradskiy
+    Data retrieved 35 88 78 17.31 1561520055
+Calling Open Weather API:
+    Iteration: 106
+    City: gayny
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gayny
+    Data retrieved 54.26 63 90 3.04 1561520055
+Calling Open Weather API:
+    Iteration: 107
+    City: deputatskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=deputatskiy
+    Data retrieved 73.7 32 0 14.72 1561520055
+Calling Open Weather API:
+    Iteration: 108
+    City: synya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=synya
+    Data retrieved 49.04 63 100 5.86 1561520055
+Calling Open Weather API:
+    Iteration: 109
+    City: ordynskoye
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ordynskoye
+    Data retrieved 66.5 77 0 7.92 1561520055
+Calling Open Weather API:
+    Iteration: 110
+    City: dauriya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dauriya
+    Data retrieved 62.72 93 100 14.12 1561520056
+Calling Open Weather API:
+    Iteration: 111
+    City: tokur
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tokur
+    Data retrieved 57.5 55 78 7.11 1561520056
+Calling Open Weather API:
+    Iteration: 112
+    City: fevralsk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fevralsk
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 113
+    City: almaznyy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=almaznyy
+    Data retrieved 69.8 37 0 13.42 1561520056
+Calling Open Weather API:
+    Iteration: 114
+    City: vrangel
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vrangel
+    Data retrieved 75.5 60 70 5.99 1561520056
+Calling Open Weather API:
+    Iteration: 115
+    City: staraya kulatka
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=staraya kulatka
+    Data retrieved 56.96 79 99 9.82 1561520057
+Calling Open Weather API:
+    Iteration: 116
+    City: petropavlovsk-kamchatskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=petropavlovsk-kamchatskiy
+    Data retrieved 46.4 100 90 13.42 1561520057
+Calling Open Weather API:
+    Iteration: 117
+    City: pevek
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pevek
+    Data retrieved 35.54 84 0 24.45 1561520057
+Calling Open Weather API:
+    Iteration: 118
+    City: bilibino
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bilibino
+    Data retrieved 61.82 28 0 18.43 1561520057
+Calling Open Weather API:
+    Iteration: 119
+    City: tumannyy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tumannyy
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 120
+    City: vostok
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vostok
+    Data retrieved 72.98 71 100 5.93 1561520057
+Calling Open Weather API:
+    Iteration: 121
+    City: yar-sale
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yar-sale
+    Data retrieved 48.14 57 64 12.86 1561520058
+Calling Open Weather API:
+    Iteration: 122
+    City: kamenskoye
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kamenskoye
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 123
+    City: yerbogachen
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yerbogachen
+    Data retrieved 78.38 35 0 9.08 1561520058
+Calling Open Weather API:
+    Iteration: 124
+    City: sentyabrskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sentyabrskiy
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 125
+    City: lavrentiya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lavrentiya
+    Data retrieved 51.56 52 100 9.37 1561520058
+Calling Open Weather API:
+    Iteration: 126
+    City: khasan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khasan
+    Data retrieved 81.08 55 59 7.78 1561520058
+Calling Open Weather API:
+    Iteration: 127
+    City: zhigalovo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zhigalovo
+    Data retrieved 51.92 98 100 3.8 1561520058
+Calling Open Weather API:
+    Iteration: 128
+    City: talakan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=talakan
+    Data retrieved 76.58 48 87 3.91 1561520058
+Calling Open Weather API:
+    Iteration: 129
+    City: baykit
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=baykit
+    Data retrieved 78.02 30 100 2.84 1561520059
+Calling Open Weather API:
+    Iteration: 130
+    City: srednekolymsk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=srednekolymsk
+    Data retrieved 82.34 20 1 11.9 1561520059
+Calling Open Weather API:
+    Iteration: 131
+    City: gari
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gari
+    Data retrieved 56.24 54 33 8.52 1561520059
+Calling Open Weather API:
+    Iteration: 132
+    City: shakhovskaya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=shakhovskaya
+    Data retrieved 56.78 79 92 4.59 1561520059
+Calling Open Weather API:
+    Iteration: 133
+    City: solovetskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=solovetskiy
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 134
+    City: svetlaya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=svetlaya
+    Data retrieved 60.2 98 99 5.5 1561520059
+Calling Open Weather API:
+    Iteration: 135
+    City: talnakh
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=talnakh
+    Data retrieved 41 60 75 11.18 1561520060
+Calling Open Weather API:
+    Iteration: 136
+    City: ust-kut
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ust-kut
+    Data retrieved 75.5 35 45 10.29 1561520060
+Calling Open Weather API:
+    Iteration: 137
+    City: ola
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ola
+    Data retrieved 48.86 73 3 4.14 1561520060
+Calling Open Weather API:
+    Iteration: 138
+    City: kosh-agach
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kosh-agach
+    Data retrieved 44.9 42 0 2.06 1561520060
+Calling Open Weather API:
+    Iteration: 139
+    City: usinsk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=usinsk
+    Data retrieved 50.3 67 100 11.01 1561520061
+Calling Open Weather API:
+    Iteration: 140
+    City: khani
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khani
+    Data retrieved 77 94 75 3.36 1561520061
+Calling Open Weather API:
+    Iteration: 141
+    City: onega
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=onega
+    Data retrieved 48.68 90 2 3.58 1561520064
+Calling Open Weather API:
+    Iteration: 142
+    City: komsomolskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=komsomolskiy
+    Data retrieved 42.2 89 100 12.26 1561520064
+Calling Open Weather API:
+    Iteration: 143
+    City: magadan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=magadan
+    Data retrieved 48.86 74 2 6.02 1561520064
+Calling Open Weather API:
+    Iteration: 144
+    City: severo-kurilsk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=severo-kurilsk
+    Data retrieved 43.64 94 100 22.41 1561520064
+Calling Open Weather API:
+    Iteration: 145
+    City: suntar
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=suntar
+    Data retrieved 75.32 45 0 5.7 1561520065
+Calling Open Weather API:
+    Iteration: 146
+    City: severo-yeniseyskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=severo-yeniseyskiy
+    Data retrieved 71 54 100 5.82 1561520065
+Calling Open Weather API:
+    Iteration: 147
+    City: ayan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ayan
+    Data retrieved 58.58 84 0 2.71 1561520060
+Calling Open Weather API:
+    Iteration: 148
+    City: blagoveshchensk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=blagoveshchensk
+    Data retrieved 69.8 56 20 11.18 1561520065
+Calling Open Weather API:
+    Iteration: 149
+    City: udachnyy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=udachnyy
+    Data retrieved 77 38 0 2.24 1561519803
+Calling Open Weather API:
+    Iteration: 150
+    City: olenegorsk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=olenegorsk
+    Data retrieved 51.74 69 82 4.45 1561520065
+Calling Open Weather API:
+    Iteration: 151
+    City: belyy yar
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=belyy yar
+    Data retrieved 57.2 82 0 6.71 1561520065
+Calling Open Weather API:
+    Iteration: 152
+    City: ushuaia
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ushuaia
+    Data retrieved 30.2 92 75 3.36 1561520066
+Calling Open Weather API:
+    Iteration: 153
+    City: rio gallegos
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rio gallegos
+    Data retrieved 35.6 80 90 8.05 1561519831
+Calling Open Weather API:
+    Iteration: 154
+    City: comodoro rivadavia
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=comodoro rivadavia
+    Data retrieved 50 53 0 8.05 1561519856
+Calling Open Weather API:
+    Iteration: 155
+    City: mar del plata
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mar del plata
+    Data retrieved 42.56 58 100 18.92 1561520066
+Calling Open Weather API:
+    Iteration: 156
+    City: general pico
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=general pico
+    Data retrieved 44.18 41 33 9.26 1561520066
+Calling Open Weather API:
+    Iteration: 157
+    City: san juan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=san juan
+    Data retrieved 82.4 78 20 4.7 1561519997
+Calling Open Weather API:
+    Iteration: 158
+    City: reconquista
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=reconquista
+    Data retrieved 42.02 60 33 5.19 1561520067
+Calling Open Weather API:
+    Iteration: 159
+    City: tres arroyos
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tres arroyos
+    Data retrieved 38.42 61 0 8.21 1561520067
+Calling Open Weather API:
+    Iteration: 160
+    City: necochea
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=necochea
+    Data retrieved 39.99 86 1 8.01 1561520071
+Calling Open Weather API:
+    Iteration: 161
+    City: concordia
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=concordia
+    Data retrieved 41 70 0 7.05 1561520071
+Calling Open Weather API:
+    Iteration: 162
+    City: presidencia roque saenz pena
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=presidencia roque saenz pena
+    Data retrieved 45.44 58 100 5.26 1561520071
+Calling Open Weather API:
+    Iteration: 163
+    City: rawson
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rawson
+    Data retrieved 41.12 55 99 18.45 1561520071
+Calling Open Weather API:
+    Iteration: 164
+    City: taolanaro
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=taolanaro
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 165
+    City: tsihombe
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tsihombe
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 166
+    City: sambava
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sambava
+    Data retrieved 63.08 93 0 2.55 1561520071
+Calling Open Weather API:
+    Iteration: 167
+    City: ampanihy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ampanihy
+    Data retrieved 60.56 93 0 3.6 1561520072
+Calling Open Weather API:
+    Iteration: 168
+    City: antsohihy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=antsohihy
+    Data retrieved 71.9 82 0 7.36 1561520072
+Calling Open Weather API:
+    Iteration: 169
+    City: antalaha
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=antalaha
+    Data retrieved 63.44 99 19 3.13 1561520072
+Calling Open Weather API:
+    Iteration: 170
+    City: beloha
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=beloha
+    Data retrieved 60.74 93 0 4.43 1561520072
+Calling Open Weather API:
+    Iteration: 171
+    City: morondava
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=morondava
+    Data retrieved 72.26 65 0 13.47 1561520073
+Calling Open Weather API:
+    Iteration: 172
+    City: bluff
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bluff
+    Data retrieved 67.04 66 34 22.21 1561519993
+Calling Open Weather API:
+    Iteration: 173
+    City: tuatapere
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tuatapere
+    Data retrieved 52 80 99 8.99 1561520076
+Calling Open Weather API:
+    Iteration: 174
+    City: kaitangata
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kaitangata
+    Data retrieved 51.01 54 0 4 1561520076
+Calling Open Weather API:
+    Iteration: 175
+    City: ahipara
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ahipara
+    Data retrieved 58.22 79 0 13.82 1561520076
+Calling Open Weather API:
+    Iteration: 176
+    City: waharoa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=waharoa
+    Data retrieved 61 63 0 1.79 1561520076
+Calling Open Weather API:
+    Iteration: 177
+    City: whitianga
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=whitianga
+    Data retrieved 59 72 27 1.52 1561520076
+Calling Open Weather API:
+    Iteration: 178
+    City: dunedin
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dunedin
+    Data retrieved 48.68 61 0 2.33 1561520077
+Calling Open Weather API:
+    Iteration: 179
+    City: ruatoria
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ruatoria
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 180
+    City: kaeo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kaeo
+    Data retrieved 57 84 2 3 1561520077
+Calling Open Weather API:
+    Iteration: 181
+    City: christchurch
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=christchurch
+    Data retrieved 52 76 41 11.41 1561519943
+Calling Open Weather API:
+    Iteration: 182
+    City: waipawa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=waipawa
+    Data retrieved 52.28 72 0 4.38 1561519788
+Calling Open Weather API:
+    Iteration: 183
+    City: te anau
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=te anau
+    Data retrieved 45.62 67 0 9.51 1561520077
+Calling Open Weather API:
+    Iteration: 184
+    City: ribeira grande
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ribeira grande
+    Data retrieved 65.96 71 93 13.96 1561520077
+Calling Open Weather API:
+    Iteration: 185
+    City: camacha
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=camacha
+    Data retrieved 68 77 75 8.05 1561520077
+Calling Open Weather API:
+    Iteration: 186
+    City: praia da vitoria
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=praia da vitoria
+    Data retrieved 64.99 88 40 13.8 1561520078
+Calling Open Weather API:
+    Iteration: 187
+    City: vila franca do campo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vila franca do campo
+    Data retrieved 64.4 82 75 9.17 1561520078
+Calling Open Weather API:
+    Iteration: 188
+    City: lagoa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lagoa
+    Data retrieved 68 100 40 3.36 1561520078
+Calling Open Weather API:
+    Iteration: 189
+    City: mataura
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mataura
+    Data retrieved 52 80 46 8.99 1561520078
+Calling Open Weather API:
+    Iteration: 190
+    City: atuona
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=atuona
+    Data retrieved 81.08 77 0 17.72 1561520078
+Calling Open Weather API:
+    Iteration: 191
+    City: moerai
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=moerai
+    Data retrieved 71.54 70 6 14.81 1561520079
+Calling Open Weather API:
+    Iteration: 192
+    City: vaitape
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vaitape
+    Data retrieved 79.64 78 14 13.65 1561520079
+Calling Open Weather API:
+    Iteration: 193
+    City: rikitea
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rikitea
+    Data retrieved 73.34 81 0 7.18 1561520079
+Calling Open Weather API:
+    Iteration: 194
+    City: teahupoo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=teahupoo
+    Data retrieved 82.4 65 40 5.82 1561520079
+Calling Open Weather API:
+    Iteration: 195
+    City: faanui
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=faanui
+    Data retrieved 79.64 78 14 13.65 1561520079
+Calling Open Weather API:
+    Iteration: 196
+    City: avera
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=avera
+    Data retrieved 77 83 1 3.36 1561520079
+Calling Open Weather API:
+    Iteration: 197
+    City: manati
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=manati
+    Data retrieved 69.8 83 0 2.24 1561520080
+Calling Open Weather API:
+    Iteration: 198
+    City: bahia honda
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bahia honda
+    Data retrieved 83.96 77 0 16.2 1561520080
+Calling Open Weather API:
+    Iteration: 199
+    City: muros
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=muros
+    Data retrieved 64.99 93 0 2.24 1561520080
+Calling Open Weather API:
+    Iteration: 200
+    City: los llanos de aridane
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=los llanos de aridane
+    Data retrieved 68 72 0 3.36 1561520080
+Calling Open Weather API:
+    Iteration: 201
+    City: betanzos
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=betanzos
+    Data retrieved 64 93 100 4.7 1561520080
+Calling Open Weather API:
+    Iteration: 202
+    City: canals
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=canals
+    Data retrieved 73.99 83 75 6.93 1561520080
+Calling Open Weather API:
+    Iteration: 203
+    City: mahon
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mahon
+    Data retrieved 61 93 75 6.93 1561520081
+Calling Open Weather API:
+    Iteration: 204
+    City: bermeo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bermeo
+    Data retrieved 66.99 93 75 2.24 1561520081
+Calling Open Weather API:
+    Iteration: 205
+    City: aguimes
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=aguimes
+    Data retrieved 71.6 73 20 12.75 1561520081
+Calling Open Weather API:
+    Iteration: 206
+    City: vaini
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vaini
+    Data retrieved 75.2 88 75 6.93 1561520081
+Calling Open Weather API:
+    Iteration: 207
+    City: saint-philippe
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-philippe
+    Data retrieved 71.6 82 1 2.24 1561520081
+Calling Open Weather API:
+    Iteration: 208
+    City: saint-leu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-leu
+    Data retrieved 69.8 83 100 4.7 1561520082
+Calling Open Weather API:
+    Iteration: 209
+    City: saint-joseph
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-joseph
+    Data retrieved 80.6 73 0 2.24 1561520082
+Calling Open Weather API:
+    Iteration: 210
+    City: chicama
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chicama
+    Data retrieved 64.4 82 90 11.41 1561520082
+Calling Open Weather API:
+    Iteration: 211
+    City: paramonga
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=paramonga
+    Data retrieved 60.92 89 70 11.52 1561520082
+Calling Open Weather API:
+    Iteration: 212
+    City: marcona
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=marcona
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 213
+    City: pimentel
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pimentel
+    Data retrieved 71.18 95 0 1.72 1561520082
+Calling Open Weather API:
+    Iteration: 214
+    City: sechura
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sechura
+    Data retrieved 64.34 89 6 15.37 1561520083
+Calling Open Weather API:
+    Iteration: 215
+    City: hualmay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hualmay
+    Data retrieved 62.72 85 53 15.57 1561520083
+Calling Open Weather API:
+    Iteration: 216
+    City: pisco
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pisco
+    Data retrieved 59 87 20 5.82 1561520083
+Calling Open Weather API:
+    Iteration: 217
+    City: cayenne
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cayenne
+    Data retrieved 77 94 83 3.74 1561520083
+Calling Open Weather API:
+    Iteration: 218
+    City: roura
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=roura
+    Data retrieved 77 94 92 1.57 1561520083
+Calling Open Weather API:
+    Iteration: 219
+    City: saint-georges
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-georges
+    Data retrieved 59 100 83 3 1561520084
+Calling Open Weather API:
+    Iteration: 220
+    City: sinnamary
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sinnamary
+    Data retrieved 81.08 80 100 13.2 1561520084
+Calling Open Weather API:
+    Iteration: 221
+    City: hilo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hilo
+    Data retrieved 82.4 61 40 16.11 1561519786
+Calling Open Weather API:
+    Iteration: 222
+    City: kapaa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kapaa
+    Data retrieved 77 94 90 5.82 1561520084
+Calling Open Weather API:
+    Iteration: 223
+    City: sunrise manor
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sunrise manor
+    Data retrieved 93.2 5 1 18.34 1561520029
+Calling Open Weather API:
+    Iteration: 224
+    City: havelock
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=havelock
+    Data retrieved 80.6 61 1 2.82 1561520029
+Calling Open Weather API:
+    Iteration: 225
+    City: pahrump
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pahrump
+    Data retrieved 90 8 1 16.11 1561519916
+Calling Open Weather API:
+    Iteration: 226
+    City: juneau
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=juneau
+    Data retrieved 73.4 46 20 10.29 1561520084
+Calling Open Weather API:
+    Iteration: 227
+    City: lompoc
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lompoc
+    Data retrieved 64 77 90 9.17 1561520023
+Calling Open Weather API:
+    Iteration: 228
+    City: kodiak
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kodiak
+    Data retrieved 78.01 83 1 5.82 1561520085
+Calling Open Weather API:
+    Iteration: 229
+    City: rogers
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rogers
+    Data retrieved 77 88 1 5.82 1561520085
+Calling Open Weather API:
+    Iteration: 230
+    City: bethel
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bethel
+    Data retrieved 66.2 93 90 19.46 1561520085
+Calling Open Weather API:
+    Iteration: 231
+    City: sand springs
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sand springs
+    Data retrieved 82.4 69 1 4.7 1561520086
+Calling Open Weather API:
+    Iteration: 232
+    City: sitka
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sitka
+    Data retrieved 73.99 76 0 1.99 1561520086
+Calling Open Weather API:
+    Iteration: 233
+    City: lamar
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lamar
+    Data retrieved 71.6 46 1 11.41 1561520086
+Calling Open Weather API:
+    Iteration: 234
+    City: crestview
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=crestview
+    Data retrieved 81 83 1 4.7 1561520041
+Calling Open Weather API:
+    Iteration: 235
+    City: homer
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=homer
+    Data retrieved 64.4 55 1 12.75 1561520087
+Calling Open Weather API:
+    Iteration: 236
+    City: nome
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nome
+    Data retrieved 73.4 88 1 7.43 1561520087
+Calling Open Weather API:
+    Iteration: 237
+    City: ewa beach
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ewa beach
+    Data retrieved 77 100 90 5.82 1561520087
+Calling Open Weather API:
+    Iteration: 238
+    City: fallon
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fallon
+    Data retrieved 66.2 52 1 8.05 1561520087
+Calling Open Weather API:
+    Iteration: 239
+    City: lumberton
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lumberton
+    Data retrieved 73.4 88 1 3.02 1561520087
+Calling Open Weather API:
+    Iteration: 240
+    City: barrow
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=barrow
+    Data retrieved 38.42 61 0 8.21 1561520082
+Calling Open Weather API:
+    Iteration: 241
+    City: susanville
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=susanville
+    Data retrieved 69.8 44 1 12.75 1561520087
+Calling Open Weather API:
+    Iteration: 242
+    City: green river
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=green river
+    Data retrieved 66.99 24 40 11.41 1561520088
+Calling Open Weather API:
+    Iteration: 243
+    City: altamont
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=altamont
+    Data retrieved 68 64 1 3.36 1561520088
+Calling Open Weather API:
+    Iteration: 244
+    City: ketchikan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ketchikan
+    Data retrieved 69.8 63 1 14.99 1561519984
+Calling Open Weather API:
+    Iteration: 245
+    City: half moon bay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=half moon bay
+    Data retrieved 69.8 87 20 8.05 1561520088
+Calling Open Weather API:
+    Iteration: 246
+    City: albertville
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=albertville
+    Data retrieved 70 93 0 4.7 1561520088
+Calling Open Weather API:
+    Iteration: 247
+    City: pineville
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pineville
+    Data retrieved 73.99 94 1 8.32 1561520088
+Calling Open Weather API:
+    Iteration: 248
+    City: grand island
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=grand island
+    Data retrieved 70 88 1 6.93 1561520089
+Calling Open Weather API:
+    Iteration: 249
+    City: college station
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=college station
+    Data retrieved 75.99 83 1 4.7 1561519879
+Calling Open Weather API:
+    Iteration: 250
+    City: ahuimanu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ahuimanu
+    Data retrieved 77 94 90 3.42 1561520089
+Calling Open Weather API:
+    Iteration: 251
+    City: pacific grove
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pacific grove
+    Data retrieved 72 67 1 8.05 1561520089
+Calling Open Weather API:
+    Iteration: 252
+    City: fairbanks
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fairbanks
+    Data retrieved 75.2 25 40 5.82 1561520089
+Calling Open Weather API:
+    Iteration: 253
+    City: glendive
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=glendive
+    Data retrieved 66.2 52 1 8.05 1561519984
+Calling Open Weather API:
+    Iteration: 254
+    City: honolulu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=honolulu
+    Data retrieved 77 94 90 3.42 1561519864
+Calling Open Weather API:
+    Iteration: 255
+    City: bar harbor
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bar harbor
+    Data retrieved 57.99 82 90 10.29 1561519803
+Calling Open Weather API:
+    Iteration: 256
+    City: ukiah
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ukiah
+    Data retrieved 72 18 1 13.87 1561520069
+Calling Open Weather API:
+    Iteration: 257
+    City: carbondale
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=carbondale
+    Data retrieved 78.8 73 1 6.93 1561520090
+Calling Open Weather API:
+    Iteration: 258
+    City: makakilo city
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=makakilo city
+    Data retrieved 77 100 90 5.82 1561520090
+Calling Open Weather API:
+    Iteration: 259
+    City: north myrtle beach
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=north myrtle beach
+    Data retrieved 82.4 78 20 1.1 1561520090
+Calling Open Weather API:
+    Iteration: 260
+    City: wichita falls
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wichita falls
+    Data retrieved 81 74 1 8.05 1561520090
+Calling Open Weather API:
+    Iteration: 261
+    City: kenai
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kenai
+    Data retrieved 64 71 1 14.99 1561519987
+Calling Open Weather API:
+    Iteration: 262
+    City: vernon
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vernon
+    Data retrieved 64.99 55 90 2.24 1561519791
+Calling Open Weather API:
+    Iteration: 263
+    City: indiana
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=indiana
+    Data retrieved 69.01 82 1 3.91 1561520087
+Calling Open Weather API:
+    Iteration: 264
+    City: brownsville
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=brownsville
+    Data retrieved 82.4 88 1 10.29 1561520091
+Calling Open Weather API:
+    Iteration: 265
+    City: iwanai
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=iwanai
+    Data retrieved 67.22 73 55 7.31 1561520091
+Calling Open Weather API:
+    Iteration: 266
+    City: ishinomaki
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ishinomaki
+    Data retrieved 73.4 73 40 11.41 1561520091
+Calling Open Weather API:
+    Iteration: 267
+    City: nemuro
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nemuro
+    Data retrieved 82.4 45 40 10.29 1561520091
+Calling Open Weather API:
+    Iteration: 268
+    City: hirara
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hirara
+    Data retrieved 86 74 40 5.82 1561520092
+Calling Open Weather API:
+    Iteration: 269
+    City: hasaki
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hasaki
+    Data retrieved 90 69 40 11.41 1561520092
+Calling Open Weather API:
+    Iteration: 270
+    City: yomitan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yomitan
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 271
+    City: katsuura
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=katsuura
+    Data retrieved 82.4 83 75 18.34 1561520092
+Calling Open Weather API:
+    Iteration: 272
+    City: naze
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=naze
+    Data retrieved 72.08 96 100 2.33 1561520092
+Calling Open Weather API:
+    Iteration: 273
+    City: punta arenas
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=punta arenas
+    Data retrieved 32 96 90 4.7 1561520092
+Calling Open Weather API:
+    Iteration: 274
+    City: coquimbo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=coquimbo
+    Data retrieved 48.2 76 0 9.17 1561520092
+Calling Open Weather API:
+    Iteration: 275
+    City: lebu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lebu
+    Data retrieved 57.2 82 40 2.71 1561520093
+Calling Open Weather API:
+    Iteration: 276
+    City: castro
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=castro
+    Data retrieved 48.2 93 90 10.29 1561520093
+Calling Open Weather API:
+    Iteration: 277
+    City: coihaique
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=coihaique
+    Data retrieved 37.4 93 75 2.24 1561520093
+Calling Open Weather API:
+    Iteration: 278
+    City: ancud
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ancud
+    Data retrieved 48.2 93 90 10.29 1561520093
+Calling Open Weather API:
+    Iteration: 279
+    City: taltal
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=taltal
+    Data retrieved 46.7 94 8 0.56 1561520093
+Calling Open Weather API:
+    Iteration: 280
+    City: antofagasta
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=antofagasta
+    Data retrieved 55.4 87 40 10.29 1561520094
+Calling Open Weather API:
+    Iteration: 281
+    City: sao francisco
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao francisco
+    Data retrieved 57.2 100 90 13.87 1561520094
+Calling Open Weather API:
+    Iteration: 282
+    City: arraial do cabo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=arraial do cabo
+    Data retrieved 73.7 79 0 9.95 1561520094
+Calling Open Weather API:
+    Iteration: 283
+    City: urucara
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=urucara
+    Data retrieved 73.16 96 82 1.92 1561520094
+Calling Open Weather API:
+    Iteration: 284
+    City: sao jose de piranhas
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao jose de piranhas
+    Data retrieved 68.12 75 79 3.76 1561520094
+Calling Open Weather API:
+    Iteration: 285
+    City: cidreira
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cidreira
+    Data retrieved 51.56 81 100 14.92 1561520094
+Calling Open Weather API:
+    Iteration: 286
+    City: paracatu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=paracatu
+    Data retrieved 65.96 66 0 0.78 1561519999
+Calling Open Weather API:
+    Iteration: 287
+    City: touros
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=touros
+    Data retrieved 73.4 88 40 3.36 1561520095
+Calling Open Weather API:
+    Iteration: 288
+    City: monte alegre
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=monte alegre
+    Data retrieved 72.98 97 50 3 1561520095
+Calling Open Weather API:
+    Iteration: 289
+    City: alenquer
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=alenquer
+    Data retrieved 75.2 94 0 2.24 1561520095
+Calling Open Weather API:
+    Iteration: 290
+    City: rio grande
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rio grande
+    Data retrieved 43.82 73 100 6.98 1561520095
+Calling Open Weather API:
+    Iteration: 291
+    City: itagiba
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=itagiba
+    Data retrieved 53.01 91 100 5.01 1561520096
+Calling Open Weather API:
+    Iteration: 292
+    City: caceres
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=caceres
+    Data retrieved 66.68 95 100 3.91 1561520096
+Calling Open Weather API:
+    Iteration: 293
+    City: belmonte
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=belmonte
+    Data retrieved 60.01 93 0 1.01 1561520096
+Calling Open Weather API:
+    Iteration: 294
+    City: caravelas
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=caravelas
+    Data retrieved 70.28 87 0 6.69 1561520096
+Calling Open Weather API:
+    Iteration: 295
+    City: sao joao da barra
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao joao da barra
+    Data retrieved 68.84 88 3 2.44 1561520096
+Calling Open Weather API:
+    Iteration: 296
+    City: olinda
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=olinda
+    Data retrieved 75.2 78 0 10.29 1561520096
+Calling Open Weather API:
+    Iteration: 297
+    City: trairi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=trairi
+    Data retrieved 70.46 94 0 4.7 1561520097
+Calling Open Weather API:
+    Iteration: 298
+    City: sao joao de pirabas
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao joao de pirabas
+    Data retrieved 72.62 99 30 3.22 1561520097
+Calling Open Weather API:
+    Iteration: 299
+    City: maracaju
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=maracaju
+    Data retrieved 72.98 48 78 9.55 1561520097
+Calling Open Weather API:
+    Iteration: 300
+    City: jardim
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=jardim
+    Data retrieved 68.12 87 100 6.2 1561520097
+Calling Open Weather API:
+    Iteration: 301
+    City: laguna
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=laguna
+    Data retrieved 83.06 53 0 4.88 1561520097
+Calling Open Weather API:
+    Iteration: 302
+    City: pocinhos
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pocinhos
+    Data retrieved 68 88 20 12.75 1561520098
+Calling Open Weather API:
+    Iteration: 303
+    City: camocim
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=camocim
+    Data retrieved 71.36 94 0 5.97 1561520098
+Calling Open Weather API:
+    Iteration: 304
+    City: bonfim
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bonfim
+    Data retrieved 77.3 81 39 8.55 1561520098
+Calling Open Weather API:
+    Iteration: 305
+    City: urbano santos
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=urbano santos
+    Data retrieved 72.08 96 0 1.81 1561520101
+Calling Open Weather API:
+    Iteration: 306
+    City: ariquemes
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ariquemes
+    Data retrieved 73.34 74 40 0.49 1561520101
+Calling Open Weather API:
+    Iteration: 307
+    City: boa vista
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=boa vista
+    Data retrieved 75.2 88 0 4.7 1561520102
+Calling Open Weather API:
+    Iteration: 308
+    City: carutapera
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=carutapera
+    Data retrieved 76.04 91 14 4.88 1561520102
+Calling Open Weather API:
+    Iteration: 309
+    City: piacabucu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=piacabucu
+    Data retrieved 73.88 87 100 5.37 1561520103
+Calling Open Weather API:
+    Iteration: 310
+    City: rawannawi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rawannawi
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 311
+    City: butaritari
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=butaritari
+    Data retrieved 84.32 69 100 8.21 1561520103
+Calling Open Weather API:
+    Iteration: 312
+    City: buariki
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=buariki
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 313
+    City: avarua
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=avarua
+    Data retrieved 75.2 73 32 12.75 1561519818
+Calling Open Weather API:
+    Iteration: 314
+    City: barentsburg
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=barentsburg
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 315
+    City: longyearbyen
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=longyearbyen
+    Data retrieved 41 75 75 9.17 1561520103
+Calling Open Weather API:
+    Iteration: 316
+    City: labuhan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=labuhan
+    Data retrieved 88.64 56 0 2.17 1561520103
+Calling Open Weather API:
+    Iteration: 317
+    City: bengkulu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bengkulu
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 318
+    City: ambon
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ambon
+    Data retrieved 64.99 93 100 10.29 1561520099
+Calling Open Weather API:
+    Iteration: 319
+    City: waingapu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=waingapu
+    Data retrieved 78.02 61 4 17.13 1561520107
+Calling Open Weather API:
+    Iteration: 320
+    City: sorong
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sorong
+    Data retrieved 78.92 86 100 10.42 1561520107
+Calling Open Weather API:
+    Iteration: 321
+    City: srandakan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=srandakan
+    Data retrieved 74.6 82 0 4.61 1561520107
+Calling Open Weather API:
+    Iteration: 322
+    City: indramayu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=indramayu
+    Data retrieved 78.92 51 0 3.47 1561520107
+Calling Open Weather API:
+    Iteration: 323
+    City: kendari
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kendari
+    Data retrieved 85.04 62 31 1.14 1561520107
+Calling Open Weather API:
+    Iteration: 324
+    City: bima
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bima
+    Data retrieved 83.6 47 1 4.59 1561520107
+Calling Open Weather API:
+    Iteration: 325
+    City: pringsewu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pringsewu
+    Data retrieved 84.86 51 0 2.53 1561520108
+Calling Open Weather API:
+    Iteration: 326
+    City: kualakapuas
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kualakapuas
+    Data retrieved 87.8 62 0 10.29 1561520108
+Calling Open Weather API:
+    Iteration: 327
+    City: sampit
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sampit
+    Data retrieved 87.02 62 22 4.5 1561520108
+Calling Open Weather API:
+    Iteration: 328
+    City: singaraja
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=singaraja
+    Data retrieved 79.28 72 0 5.12 1561520108
+Calling Open Weather API:
+    Iteration: 329
+    City: banjarmasin
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=banjarmasin
+    Data retrieved 87.8 62 22 10.29 1561520108
+Calling Open Weather API:
+    Iteration: 330
+    City: tidore
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tidore
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 331
+    City: amahai
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=amahai
+    Data retrieved 79.28 82 74 14.38 1561520109
+Calling Open Weather API:
+    Iteration: 332
+    City: palabuhanratu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=palabuhanratu
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 333
+    City: kupang
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kupang
+    Data retrieved 87.8 33 20 20.8 1561520109
+Calling Open Weather API:
+    Iteration: 334
+    City: ternate
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ternate
+    Data retrieved 91.4 63 75 9.17 1561520109
+Calling Open Weather API:
+    Iteration: 335
+    City: sungairaya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sungairaya
+    Data retrieved 82.7 82 2 13.98 1561520109
+Calling Open Weather API:
+    Iteration: 336
+    City: sumbawa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sumbawa
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 337
+    City: gorontalo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gorontalo
+    Data retrieved 83.96 68 100 12.88 1561520109
+Calling Open Weather API:
+    Iteration: 338
+    City: biak
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=biak
+    Data retrieved 69.02 88 96 5.3 1561520109
+Calling Open Weather API:
+    Iteration: 339
+    City: sorland
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sorland
+    Data retrieved 47.96 88 96 15.79 1561520110
+Calling Open Weather API:
+    Iteration: 340
+    City: vardo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vardo
+    Data retrieved 73.99 83 1 4.36 1561520110
+Calling Open Weather API:
+    Iteration: 341
+    City: havoysund
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=havoysund
+    Data retrieved 46.4 87 75 27.51 1561520110
+Calling Open Weather API:
+    Iteration: 342
+    City: nesna
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nesna
+    Data retrieved 48 70 93 1.01 1561520110
+Calling Open Weather API:
+    Iteration: 343
+    City: sistranda
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sistranda
+    Data retrieved 50 76 75 5.82 1561520111
+Calling Open Weather API:
+    Iteration: 344
+    City: mehamn
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mehamn
+    Data retrieved 48.2 81 75 17.22 1561520111
+Calling Open Weather API:
+    Iteration: 345
+    City: skjervoy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=skjervoy
+    Data retrieved 48.14 80 100 10.33 1561520111
+Calling Open Weather API:
+    Iteration: 346
+    City: bud
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bud
+    Data retrieved 53.01 81 76 8.05 1561520111
+Calling Open Weather API:
+    Iteration: 347
+    City: groa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=groa
+    Data retrieved 61 100 33 3.36 1561520112
+Calling Open Weather API:
+    Iteration: 348
+    City: zhangye
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zhangye
+    Data retrieved 64.16 47 100 3.94 1561520112
+Calling Open Weather API:
+    Iteration: 349
+    City: altay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=altay
+    Data retrieved 54.08 42 0 0.92 1561520113
+Calling Open Weather API:
+    Iteration: 350
+    City: yakeshi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yakeshi
+    Data retrieved 66.14 74 100 19.77 1561520113
+Calling Open Weather API:
+    Iteration: 351
+    City: tongren
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tongren
+    Data retrieved 81.62 67 32 3.31 1561520113
+Calling Open Weather API:
+    Iteration: 352
+    City: dafeng
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dafeng
+    Data retrieved 75.5 71 100 6.6 1561520113
+Calling Open Weather API:
+    Iteration: 353
+    City: nangong
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nangong
+    Data retrieved 92.96 28 76 7.34 1561520114
+Calling Open Weather API:
+    Iteration: 354
+    City: pingzhuang
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pingzhuang
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 355
+    City: wuchang
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wuchang
+    Data retrieved 80.54 47 15 19.04 1561520114
+Calling Open Weather API:
+    Iteration: 356
+    City: dengfeng
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dengfeng
+    Data retrieved 84.14 37 0 4.07 1561520114
+Calling Open Weather API:
+    Iteration: 357
+    City: luan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=luan
+    Data retrieved 73 64 0 2.24 1561520114
+Calling Open Weather API:
+    Iteration: 358
+    City: hami
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hami
+    Data retrieved 77.48 24 75 8.03 1561520114
+Calling Open Weather API:
+    Iteration: 359
+    City: ninghai
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ninghai
+    Data retrieved 82.99 100 90 4.47 1561520115
+Calling Open Weather API:
+    Iteration: 360
+    City: tongzi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tongzi
+    Data retrieved 72.98 93 100 3.11 1561520118
+Calling Open Weather API:
+    Iteration: 361
+    City: beidao
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=beidao
+    Data retrieved 71.36 66 94 12.73 1561520118
+Calling Open Weather API:
+    Iteration: 362
+    City: hailar
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hailar
+    Data retrieved 70.1 72 95 20.49 1561520118
+Calling Open Weather API:
+    Iteration: 363
+    City: yumen
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yumen
+    Data retrieved 73.7 27 100 9.84 1561520118
+Calling Open Weather API:
+    Iteration: 364
+    City: xichang
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=xichang
+    Data retrieved 61.82 87 100 1.5 1561520118
+Calling Open Weather API:
+    Iteration: 365
+    City: shache
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=shache
+    Data retrieved 70 90 0 5.5 1561520119
+Calling Open Weather API:
+    Iteration: 366
+    City: lanzhou
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lanzhou
+    Data retrieved 59 93 90 4.47 1561520119
+Calling Open Weather API:
+    Iteration: 367
+    City: lasa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lasa
+    Data retrieved 77 68 0 3.36 1561520119
+Calling Open Weather API:
+    Iteration: 368
+    City: chifeng
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chifeng
+    Data retrieved 76.04 43 100 11.48 1561519983
+Calling Open Weather API:
+    Iteration: 369
+    City: zhuanghe
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zhuanghe
+    Data retrieved 79.28 48 99 13.98 1561520119
+Calling Open Weather API:
+    Iteration: 370
+    City: dongsheng
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dongsheng
+    Data retrieved 84.32 61 2 4.94 1561520119
+Calling Open Weather API:
+    Iteration: 371
+    City: zhengjiatun
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zhengjiatun
+    Data retrieved 83.6 41 83 21.94 1561520120
+Calling Open Weather API:
+    Iteration: 372
+    City: korla
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=korla
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 373
+    City: bhadrachalam
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bhadrachalam
+    Data retrieved 88.28 61 0 5.57 1561520120
+Calling Open Weather API:
+    Iteration: 374
+    City: daosa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=daosa
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 375
+    City: port blair
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port blair
+    Data retrieved 77 94 90 5.82 1561520088
+Calling Open Weather API:
+    Iteration: 376
+    City: kollam
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kollam
+    Data retrieved 84.2 83 75 5.82 1561520120
+Calling Open Weather API:
+    Iteration: 377
+    City: kavaratti
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kavaratti
+    Data retrieved 84.2 79 40 6.93 1561520121
+Calling Open Weather API:
+    Iteration: 378
+    City: madras
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=madras
+    Data retrieved 66.2 62 1 8.05 1561520121
+Calling Open Weather API:
+    Iteration: 379
+    City: naliya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=naliya
+    Data retrieved 84.68 80 77 12.3 1561520121
+Calling Open Weather API:
+    Iteration: 380
+    City: asifabad
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=asifabad
+    Data retrieved 88.64 57 0 8.52 1561520121
+Calling Open Weather API:
+    Iteration: 381
+    City: gangotri
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gangotri
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 382
+    City: harda
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=harda
+    Data retrieved 88.64 58 0 6.24 1561520121
+Calling Open Weather API:
+    Iteration: 383
+    City: ramnagar
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ramnagar
+    Data retrieved 92.96 56 40 6.11 1561520121
+Calling Open Weather API:
+    Iteration: 384
+    City: tharad
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tharad
+    Data retrieved 86.84 69 99 9.82 1561520122
+Calling Open Weather API:
+    Iteration: 385
+    City: ghatsila
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ghatsila
+    Data retrieved 89.6 66 40 6.93 1561520122
+Calling Open Weather API:
+    Iteration: 386
+    City: leh
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=leh
+    Data retrieved 34.1 57 0 4.12 1561519935
+Calling Open Weather API:
+    Iteration: 387
+    City: dalkola
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dalkola
+    Data retrieved 89.36 68 81 9.1 1561520122
+Calling Open Weather API:
+    Iteration: 388
+    City: mayor pablo lagerenza
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mayor pablo lagerenza
+    Data retrieved 53.72 55 72 12.08 1561520122
+Calling Open Weather API:
+    Iteration: 389
+    City: lorengau
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lorengau
+    Data retrieved 83.42 78 20 7.54 1561520122
+Calling Open Weather API:
+    Iteration: 390
+    City: namatanai
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=namatanai
+    Data retrieved 80.54 81 100 15.39 1561520123
+Calling Open Weather API:
+    Iteration: 391
+    City: kavieng
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kavieng
+    Data retrieved 84.68 73 100 17.27 1561520123
+Calling Open Weather API:
+    Iteration: 392
+    City: port moresby
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port moresby
+    Data retrieved 80.6 83 75 18.34 1561520123
+Calling Open Weather API:
+    Iteration: 393
+    City: kieta
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kieta
+    Data retrieved 83.42 75 100 6.44 1561520123
+Calling Open Weather API:
+    Iteration: 394
+    City: kerema
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kerema
+    Data retrieved 79.82 83 98 15.86 1561520123
+Calling Open Weather API:
+    Iteration: 395
+    City: vanimo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vanimo
+    Data retrieved 82.7 77 99 5.86 1561520123
+Calling Open Weather API:
+    Iteration: 396
+    City: samarai
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=samarai
+    Data retrieved 75.86 94 100 6.4 1561520124
+Calling Open Weather API:
+    Iteration: 397
+    City: faya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=faya
+    Data retrieved 68 42 20 3.38 1561520124
+Calling Open Weather API:
+    Iteration: 398
+    City: adre
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=adre
+    Data retrieved 72.98 76 81 19.64 1561520124
+Calling Open Weather API:
+    Iteration: 399
+    City: moussoro
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=moussoro
+    Data retrieved 88.46 38 0 7.94 1561520124
+Calling Open Weather API:
+    Iteration: 400
+    City: ati
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ati
+    Data retrieved 87.56 42 37 19.53 1561520124
+Calling Open Weather API:
+    Iteration: 401
+    City: am timan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=am timan
+    Data retrieved 77.84 73 100 8.97 1561520124
+Calling Open Weather API:
+    Iteration: 402
+    City: sulangan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sulangan
+    Data retrieved 85.04 69 52 3.2 1561520125
+Calling Open Weather API:
+    Iteration: 403
+    City: tagusao
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tagusao
+    Data retrieved 85.76 70 83 11.45 1561520125
+Calling Open Weather API:
+    Iteration: 404
+    City: cabugao
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cabugao
+    Data retrieved 90.62 60 100 1.32 1561520125
+Calling Open Weather API:
+    Iteration: 405
+    City: basco
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=basco
+    Data retrieved 70 93 40 12.75 1561520125
+Calling Open Weather API:
+    Iteration: 406
+    City: san policarpo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=san policarpo
+    Data retrieved 86.48 67 96 5.99 1561520125
+Calling Open Weather API:
+    Iteration: 407
+    City: santa cruz
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=santa cruz
+    Data retrieved 72 77 1 8.05 1561520108
+Calling Open Weather API:
+    Iteration: 408
+    City: tubajon
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tubajon
+    Data retrieved 84.5 75 100 11.59 1561520127
+Calling Open Weather API:
+    Iteration: 409
+    City: tuburan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tuburan
+    Data retrieved 89.6 62 75 14.99 1561520127
+Calling Open Weather API:
+    Iteration: 410
+    City: palauig
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=palauig
+    Data retrieved 85.76 74 95 12.64 1561520127
+Calling Open Weather API:
+    Iteration: 411
+    City: bathsheba
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bathsheba
+    Data retrieved 80.6 74 0 21.92 1561520127
+Calling Open Weather API:
+    Iteration: 412
+    City: kristiinankaupunki
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kristiinankaupunki
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 413
+    City: villamontes
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=villamontes
+    Data retrieved 47.06 58 49 3.98 1561520128
+Calling Open Weather API:
+    Iteration: 414
+    City: patacamaya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=patacamaya
+    Data retrieved 36.44 31 0 10.98 1561520128
+Calling Open Weather API:
+    Iteration: 415
+    City: arriaga
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=arriaga
+    Data retrieved 69.56 92 100 1.95 1561520128
+Calling Open Weather API:
+    Iteration: 416
+    City: guerrero negro
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=guerrero negro
+    Data retrieved 63.26 86 59 14.05 1561520128
+Calling Open Weather API:
+    Iteration: 417
+    City: cabo san lucas
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cabo san lucas
+    Data retrieved 82.4 42 5 5.82 1561519834
+Calling Open Weather API:
+    Iteration: 418
+    City: puerto escondido
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=puerto escondido
+    Data retrieved 84.2 62 5 5.82 1561520128
+Calling Open Weather API:
+    Iteration: 419
+    City: caborca
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=caborca
+    Data retrieved 84 22 0 1.01 1561520128
+Calling Open Weather API:
+    Iteration: 420
+    City: san patricio
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=san patricio
+    Data retrieved 45.26 82 100 7.11 1561520101
+Calling Open Weather API:
+    Iteration: 421
+    City: casas grandes
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=casas grandes
+    Data retrieved 73.88 22 100 5.23 1561520129
+Calling Open Weather API:
+    Iteration: 422
+    City: tekax
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tekax
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 423
+    City: reynosa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=reynosa
+    Data retrieved 81 74 90 13.87 1561519884
+Calling Open Weather API:
+    Iteration: 424
+    City: aguililla
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=aguililla
+    Data retrieved 68.3 84 89 2.21 1561520129
+Calling Open Weather API:
+    Iteration: 425
+    City: coahuayana
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=coahuayana
+    Data retrieved 76.76 79 67 0.29 1561520129
+Calling Open Weather API:
+    Iteration: 426
+    City: puerto madero
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=puerto madero
+    Data retrieved 46.99 45 0 4.7 1561520129
+Calling Open Weather API:
+    Iteration: 427
+    City: isla mujeres
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=isla mujeres
+    Data retrieved 84.2 79 40 9.17 1561520130
+Calling Open Weather API:
+    Iteration: 428
+    City: illoqqortoormiut
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=illoqqortoormiut
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 429
+    City: upernavik
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=upernavik
+    Data retrieved 32.84 88 100 8.3 1561520130
+Calling Open Weather API:
+    Iteration: 430
+    City: qaanaaq
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=qaanaaq
+    Data retrieved 33.74 88 88 2.66 1561520130
+Calling Open Weather API:
+    Iteration: 431
+    City: paamiut
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=paamiut
+    Data retrieved 39.86 99 100 5.82 1561520130
+Calling Open Weather API:
+    Iteration: 432
+    City: qasigiannguit
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=qasigiannguit
+    Data retrieved 42.8 81 100 4.7 1561520130
+Calling Open Weather API:
+    Iteration: 433
+    City: maniitsoq
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=maniitsoq
+    Data retrieved 45.44 84 98 3.6 1561520130
+Calling Open Weather API:
+    Iteration: 434
+    City: narsaq
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=narsaq
+    Data retrieved 51.8 76 100 10.29 1561520131
+Calling Open Weather API:
+    Iteration: 435
+    City: sisimiut
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sisimiut
+    Data retrieved 41.48 85 100 8.72 1561520131
+Calling Open Weather API:
+    Iteration: 436
+    City: tasiilaq
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tasiilaq
+    Data retrieved 41 80 0 9.17 1561520131
+Calling Open Weather API:
+    Iteration: 437
+    City: qaqortoq
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=qaqortoq
+    Data retrieved 51.8 76 100 10.29 1561520131
+Calling Open Weather API:
+    Iteration: 438
+    City: samusu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=samusu
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 439
+    City: saleaula
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saleaula
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 440
+    City: falealupo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=falealupo
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 441
+    City: sorvag
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sorvag
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 442
+    City: klaksvik
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=klaksvik
+    Data retrieved 50 93 93 11.41 1561520134
+Calling Open Weather API:
+    Iteration: 443
+    City: vestmanna
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vestmanna
+    Data retrieved 50 93 99 11.41 1561520135
+Calling Open Weather API:
+    Iteration: 444
+    City: fereydun kenar
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fereydun kenar
+    Data retrieved 80.6 83 75 4.7 1561520135
+Calling Open Weather API:
+    Iteration: 445
+    City: ashtian
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ashtian
+    Data retrieved 76.58 18 0 5.14 1561520135
+Calling Open Weather API:
+    Iteration: 446
+    City: taft
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=taft
+    Data retrieved 84.86 72 100 4.99 1561520135
+Calling Open Weather API:
+    Iteration: 447
+    City: westport
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=westport
+    Data retrieved 57 92 0 1.01 1561520135
+Calling Open Weather API:
+    Iteration: 448
+    City: dingle
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dingle
+    Data retrieved 86.12 73 84 8.43 1561520136
+Calling Open Weather API:
+    Iteration: 449
+    City: ginda
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ginda
+    Data retrieved 70.1 63 0 2.77 1561520136
+Calling Open Weather API:
+    Iteration: 450
+    City: gunjur
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gunjur
+    Data retrieved 77 88 0 5.82 1561520136
+Calling Open Weather API:
+    Iteration: 451
+    City: mahebourg
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mahebourg
+    Data retrieved 75.2 83 75 11.41 1561519996
+Calling Open Weather API:
+    Iteration: 452
+    City: bambous virieux
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bambous virieux
+    Data retrieved 75.2 83 75 11.41 1561520113
+Calling Open Weather API:
+    Iteration: 453
+    City: grand river south east
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=grand river south east
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 454
+    City: souillac
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=souillac
+    Data retrieved 70 83 0 3.36 1561520136
+Calling Open Weather API:
+    Iteration: 455
+    City: hobyo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hobyo
+    Data retrieved 76.22 70 27 14.67 1561519991
+Calling Open Weather API:
+    Iteration: 456
+    City: eyl
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=eyl
+    Data retrieved 77.66 69 100 28.7 1561520137
+Calling Open Weather API:
+    Iteration: 457
+    City: puerto ayora
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=puerto ayora
+    Data retrieved 72.08 85 18 10.22 1561519996
+Calling Open Weather API:
+    Iteration: 458
+    City: muisne
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=muisne
+    Data retrieved 76.04 86 25 14.5 1561520137
+Calling Open Weather API:
+    Iteration: 459
+    City: manta
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=manta
+    Data retrieved 63.08 76 0 1.95 1561520137
+Calling Open Weather API:
+    Iteration: 460
+    City: san cristobal
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=san cristobal
+    Data retrieved 53.6 93 75 5.82 1561520137
+Calling Open Weather API:
+    Iteration: 461
+    City: jamestown
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=jamestown
+    Data retrieved 61.82 47 0 11.14 1561520095
+Calling Open Weather API:
+    Iteration: 462
+    City: georgetown
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=georgetown
+    Data retrieved 77 94 20 4.7 1561519903
+Calling Open Weather API:
+    Iteration: 463
+    City: luanda
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=luanda
+    Data retrieved 68 88 40 2.24 1561520138
+Calling Open Weather API:
+    Iteration: 464
+    City: namibe
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=namibe
+    Data retrieved 63.98 82 24 8.99 1561520138
+Calling Open Weather API:
+    Iteration: 465
+    City: menongue
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=menongue
+    Data retrieved 47.78 50 0 3.09 1561520138
+Calling Open Weather API:
+    Iteration: 466
+    City: omboue
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=omboue
+    Data retrieved 74.96 79 79 14.72 1561520138
+Calling Open Weather API:
+    Iteration: 467
+    City: gamba
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gamba
+    Data retrieved 48.86 49 31 6.38 1561520139
+Calling Open Weather API:
+    Iteration: 468
+    City: port-gentil
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port-gentil
+    Data retrieved 76.04 78 31 15.12 1561520139
+Calling Open Weather API:
+    Iteration: 469
+    City: waddan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=waddan
+    Data retrieved 79.1 41 0 5.61 1561520139
+Calling Open Weather API:
+    Iteration: 470
+    City: gat
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gat
+    Data retrieved 75.2 88 0 8.05 1561520139
+Calling Open Weather API:
+    Iteration: 471
+    City: hithadhoo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hithadhoo
+    Data retrieved 84.14 70 58 6.8 1561520020
+Calling Open Weather API:
+    Iteration: 472
+    City: kapit
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kapit
+    Data retrieved 82.7 91 60 1.36 1561520139
+Calling Open Weather API:
+    Iteration: 473
+    City: banting
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=banting
+    Data retrieved 82.99 83 75 4.7 1561520139
+Calling Open Weather API:
+    Iteration: 474
+    City: ornskoldsvik
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ornskoldsvik
+    Data retrieved 55.4 93 64 4.7 1561520140
+Calling Open Weather API:
+    Iteration: 475
+    City: kiruna
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kiruna
+    Data retrieved 42.8 87 96 2.62 1561520140
+Calling Open Weather API:
+    Iteration: 476
+    City: kaffrine
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kaffrine
+    Data retrieved 77 83 0 4.7 1561520140
+Calling Open Weather API:
+    Iteration: 477
+    City: pavilosta
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pavilosta
+    Data retrieved 55.4 100 100 3.36 1561520140
+Calling Open Weather API:
+    Iteration: 478
+    City: ventspils
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ventspils
+    Data retrieved 55.4 93 0 5.66 1561520140
+Calling Open Weather API:
+    Iteration: 479
+    City: slavonski brod
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=slavonski brod
+    Data retrieved 68 100 61 3.36 1561520140
+Calling Open Weather API:
+    Iteration: 480
+    City: senj
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=senj
+    Data retrieved 77 83 0 5.82 1561520141
+Calling Open Weather API:
+    Iteration: 481
+    City: ponta do sol
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ponta do sol
+    Data retrieved 65.6 66 96 3.74 1561520141
+Calling Open Weather API:
+    Iteration: 482
+    City: sao filipe
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao filipe
+    Data retrieved 74.42 85 0 17.94 1561520141
+Calling Open Weather API:
+    Iteration: 483
+    City: sal rei
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sal rei
+    Data retrieved 73.4 88 20 14.99 1561520141
+Calling Open Weather API:
+    Iteration: 484
+    City: luganville
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=luganville
+    Data retrieved 80.6 83 75 11.41 1561520141
+Calling Open Weather API:
+    Iteration: 485
+    City: isangel
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=isangel
+    Data retrieved 82.4 69 75 13.87 1561520141
+Calling Open Weather API:
+    Iteration: 486
+    City: vila
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vila
+    Data retrieved 81 78 75 6.93 1561520142
+Calling Open Weather API:
+    Iteration: 487
+    City: mitsamiouli
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mitsamiouli
+    Data retrieved 71.6 88 75 4.7 1561520142
+Calling Open Weather API:
+    Iteration: 488
+    City: moroni
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=moroni
+    Data retrieved 75 28 60 15.43 1561520142
+Calling Open Weather API:
+    Iteration: 489
+    City: yenagoa
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yenagoa
+    Data retrieved 72.8 93 100 4.94 1561520142
+Calling Open Weather API:
+    Iteration: 490
+    City: pathein
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pathein
+    Data retrieved 83.6 79 100 7.27 1561520142
+Calling Open Weather API:
+    Iteration: 491
+    City: mergui
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mergui
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 492
+    City: dawei
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dawei
+    Data retrieved 80.72 87 100 13.35 1561520143
+Calling Open Weather API:
+    Iteration: 493
+    City: ochamchira
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ochamchira
+    Data retrieved 72.8 83 1 4.18 1561520143
+Calling Open Weather API:
+    Iteration: 494
+    City: plouzane
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=plouzane
+    Data retrieved 62.6 93 0 6.93 1561520143
+Calling Open Weather API:
+    Iteration: 495
+    City: sens
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sens
+    Data retrieved 68 93 0 4.7 1561520143
+Calling Open Weather API:
+    Iteration: 496
+    City: saint george
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint george
+    Data retrieved 75 68 40 1.19 1561520144
+Calling Open Weather API:
+    Iteration: 497
+    City: hamilton
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hamilton
+    Data retrieved 78.8 74 75 9.17 1561520089
+Calling Open Weather API:
+    Iteration: 498
+    City: sarkand
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sarkand
+    Data retrieved 83.06 24 0 4.32 1561520144
+Calling Open Weather API:
+    Iteration: 499
+    City: inderborskiy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=inderborskiy
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 500
+    City: ushtobe
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ushtobe
+    Data retrieved 82.16 29 0 6.62 1561520144
+Calling Open Weather API:
+    Iteration: 501
+    City: boralday
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=boralday
+    Data retrieved 78.8 36 40 2.24 1561520147
+Calling Open Weather API:
+    Iteration: 502
+    City: ekibastuz
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ekibastuz
+    Data retrieved 79.1 47 0 13.42 1561520147
+Calling Open Weather API:
+    Iteration: 503
+    City: belousovka
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=belousovka
+    Data retrieved 64.4 59 0 4.47 1561520078
+Calling Open Weather API:
+    Iteration: 504
+    City: fort-shevchenko
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fort-shevchenko
+    Data retrieved 79.46 84 29 13.11 1561520148
+Calling Open Weather API:
+    Iteration: 505
+    City: karacakoy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=karacakoy
+    Data retrieved 78.01 83 40 20.8 1561520148
+Calling Open Weather API:
+    Iteration: 506
+    City: kumluca
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kumluca
+    Data retrieved 63.62 59 0 3.67 1561520151
+Calling Open Weather API:
+    Iteration: 507
+    City: kulu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kulu
+    Data retrieved 68.3 99 96 1.01 1561520152
+Calling Open Weather API:
+    Iteration: 508
+    City: hendek
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hendek
+    Data retrieved 66.2 100 75 2.01 1561520152
+Calling Open Weather API:
+    Iteration: 509
+    City: butzow
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=butzow
+    Data retrieved 73.4 60 0 3.36 1561520152
+Calling Open Weather API:
+    Iteration: 510
+    City: noumea
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=noumea
+    Data retrieved 77 69 0 12.75 1561520152
+Calling Open Weather API:
+    Iteration: 511
+    City: poya
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=poya
+    Data retrieved 72.08 91 90 21.05 1561520152
+Calling Open Weather API:
+    Iteration: 512
+    City: bosobolo
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bosobolo
+    Data retrieved 68.84 95 100 1.63 1561520152
+Calling Open Weather API:
+    Iteration: 513
+    City: kisangani
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kisangani
+    Data retrieved 69.74 98 93 2.26 1561520153
+Calling Open Weather API:
+    Iteration: 514
+    City: wamba
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wamba
+    Data retrieved 64.16 98 98 0.92 1561520153
+Calling Open Weather API:
+    Iteration: 515
+    City: mbanza-ngungu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mbanza-ngungu
+    Data retrieved 62.18 96 54 4.12 1561520153
+Calling Open Weather API:
+    Iteration: 516
+    City: goma
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=goma
+    Data retrieved 55.52 99 98 2.24 1561520153
+Calling Open Weather API:
+    Iteration: 517
+    City: boende
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=boende
+    Data retrieved 71.72 90 97 2.55 1561520153
+Calling Open Weather API:
+    Iteration: 518
+    City: chuy
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chuy
+    Data retrieved 47.78 63 100 16.73 1561520153
+Calling Open Weather API:
+    Iteration: 519
+    City: goderich
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=goderich
+    Data retrieved 71.01 68 88 7 1561520154
+Calling Open Weather API:
+    Iteration: 520
+    City: lungi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lungi
+    Data retrieved 75.68 95 72 2.89 1561520154
+Calling Open Weather API:
+    Iteration: 521
+    City: hofn
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hofn
+    Data retrieved 41.12 71 97 9.35 1561520154
+Calling Open Weather API:
+    Iteration: 522
+    City: grindavik
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=grindavik
+    Data retrieved 53.01 100 90 23.04 1561520087
+Calling Open Weather API:
+    Iteration: 523
+    City: vestmannaeyjar
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vestmannaeyjar
+    Data retrieved 52.1 92 92 16.28 1561520154
+Calling Open Weather API:
+    Iteration: 524
+    City: bolungarvik
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bolungarvik
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 525
+    City: dalbandin
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dalbandin
+    Data retrieved 82.88 36 0 8.43 1561520155
+Calling Open Weather API:
+    Iteration: 526
+    City: harnoli
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=harnoli
+    Data retrieved 98 26 0 7.45 1561520155
+Calling Open Weather API:
+    Iteration: 527
+    City: mingaora
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mingaora
+    Data retrieved 74.96 29 0 2.68 1561519939
+Calling Open Weather API:
+    Iteration: 528
+    City: sangmelima
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sangmelima
+    Data retrieved 67.04 92 100 3.87 1561520155
+Calling Open Weather API:
+    Iteration: 529
+    City: poli
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=poli
+    Data retrieved 71.9 92 100 3.22 1561520155
+Calling Open Weather API:
+    Iteration: 530
+    City: wum
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wum
+    Data retrieved 64.52 98 100 2.82 1561520156
+Calling Open Weather API:
+    Iteration: 531
+    City: ginir
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ginir
+    Data retrieved 55.88 96 6 3.65 1561520156
+Calling Open Weather API:
+    Iteration: 532
+    City: tyup
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tyup
+    Data retrieved 49.4 59 0 3.15 1561520156
+Calling Open Weather API:
+    Iteration: 533
+    City: matara
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=matara
+    Data retrieved 38.42 68 69 3.78 1561520165
+Calling Open Weather API:
+    Iteration: 534
+    City: point pedro
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=point pedro
+    Data retrieved 84.86 77 100 18.03 1561520165
+Calling Open Weather API:
+    Iteration: 535
+    City: hambantota
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hambantota
+    Data retrieved 86 84 40 11.41 1561520165
+Calling Open Weather API:
+    Iteration: 536
+    City: buraydah
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=buraydah
+    Data retrieved 80.6 26 0 5.3 1561520166
+Calling Open Weather API:
+    Iteration: 537
+    City: riyadh
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=riyadh
+    Data retrieved 84.2 12 0 5.82 1561519913
+Calling Open Weather API:
+    Iteration: 538
+    City: mecca
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mecca
+    Data retrieved 82.52 59 0 2.53 1561520166
+Calling Open Weather API:
+    Iteration: 539
+    City: saint-pierre
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-pierre
+    Data retrieved 68 94 0 8.05 1561520166
+Calling Open Weather API:
+    Iteration: 540
+    City: hovd
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hovd
+    Data retrieved 52 81 75 17.22 1561520167
+Calling Open Weather API:
+    Iteration: 541
+    City: bulgan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bulgan
+    Data retrieved 56.96 41 5 12.21 1561520167
+Calling Open Weather API:
+    Iteration: 542
+    City: baruun-urt
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=baruun-urt
+    Data retrieved 77.12 30 0 11.63 1561520167
+Calling Open Weather API:
+    Iteration: 543
+    City: mwingi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mwingi
+    Data retrieved 59.66 91 6 4.32 1561520167
+Calling Open Weather API:
+    Iteration: 544
+    City: tonj
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tonj
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 545
+    City: kutum
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kutum
+    Data retrieved 75.14 54 99 1.41 1561520170
+Calling Open Weather API:
+    Iteration: 546
+    City: umm kaddadah
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=umm kaddadah
+    Data retrieved 83.6 48 100 12.28 1561520170
+Calling Open Weather API:
+    Iteration: 547
+    City: navabad
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=navabad
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 548
+    City: bilma
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bilma
+    Data retrieved 87.74 26 0 9.37 1561520174
+Calling Open Weather API:
+    Iteration: 549
+    City: arlit
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=arlit
+    Data retrieved 90.8 25 0 5.39 1561520174
+Calling Open Weather API:
+    Iteration: 550
+    City: gizycko
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gizycko
+    Data retrieved 67.76 84 87 10.16 1561520174
+Calling Open Weather API:
+    Iteration: 551
+    City: kivsharivka
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kivsharivka
+    Data retrieved 59.3 85 9 7.45 1561520174
+Calling Open Weather API:
+    Iteration: 552
+    City: zaozerne
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zaozerne
+    Data retrieved 61.82 87 97 5.73 1561520174
+Calling Open Weather API:
+    Iteration: 553
+    City: linden
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=linden
+    Data retrieved 77 94 20 4.7 1561520175
+Calling Open Weather API:
+    Iteration: 554
+    City: lethem
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lethem
+    Data retrieved 77.3 81 39 8.55 1561520175
+Calling Open Weather API:
+    Iteration: 555
+    City: kilindoni
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kilindoni
+    Data retrieved 78.2 77 0 16.51 1561520178
+Calling Open Weather API:
+    Iteration: 556
+    City: liwale
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=liwale
+    Data retrieved 59.3 96 21 7.72 1561520178
+Calling Open Weather API:
+    Iteration: 557
+    City: netivot
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=netivot
+    Data retrieved 73.99 18 0 2.17 1561520179
+Calling Open Weather API:
+    Iteration: 558
+    City: airai
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=airai
+    Data retrieved 83.06 39 0 2.24 1561520084
+Calling Open Weather API:
+    Iteration: 559
+    City: den helder
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=den helder
+    Data retrieved 66.99 93 75 9.17 1561520179
+Calling Open Weather API:
+    Iteration: 560
+    City: murgab
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=murgab
+    Data retrieved 80.6 34 0 9.4 1561520179
+Calling Open Weather API:
+    Iteration: 561
+    City: gazanjyk
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gazanjyk
+    Data retrieved 91.7 11 0 2.39 1561520179
+Calling Open Weather API:
+    Iteration: 562
+    City: vaitupu
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vaitupu
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 563
+    City: liku
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=liku
+    Data retrieved 82.16 73 11 4.94 1561520179
+Calling Open Weather API:
+    Iteration: 564
+    City: lobatse
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lobatse
+    Data retrieved 41 52 0 5.82 1561520179
+Calling Open Weather API:
+    Iteration: 565
+    City: werda
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=werda
+    Data retrieved 72 82 49 6.2 1561520180
+Calling Open Weather API:
+    Iteration: 566
+    City: jacmel
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=jacmel
+    Data retrieved 73.99 97 0 4.79 1561520180
+Calling Open Weather API:
+    Iteration: 567
+    City: lchashen
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lchashen
+    Data retrieved 75.2 44 0 1.12 1561520180
+Calling Open Weather API:
+    Iteration: 568
+    City: koilas
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=koilas
+    Data retrieved 75.5 67 0 13 1561520183
+Calling Open Weather API:
+    Iteration: 569
+    City: tachov
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tachov
+    Data retrieved 66 100 34 2.06 1561520184
+Calling Open Weather API:
+    Iteration: 570
+    City: cockburn town
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cockburn town
+    Data retrieved 80.9 79 0 15.26 1561520164
+Calling Open Weather API:
+    Iteration: 571
+    City: bodden town
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bodden town
+    Data retrieved 81 94 0 3.36 1561520184
+Calling Open Weather API:
+    Iteration: 572
+    City: butgenbach
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=butgenbach
+    Data retrieved 73.4 94 41 2.24 1561520184
+Calling Open Weather API:
+    Iteration: 573
+    City: quba
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=quba
+    Data retrieved 82.34 38 0 6.62 1561520184
+Calling Open Weather API:
+    Iteration: 574
+    City: codrington
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=codrington
+    Data retrieved 66.2 82 75 9.17 1561520187
+Calling Open Weather API:
+    Iteration: 575
+    City: sayyan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sayyan
+    Data retrieved 75.14 52 100 1.12 1561520187
+Calling Open Weather API:
+    Iteration: 576
+    City: khandbari
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khandbari
+    Data retrieved 65.6 83 42 3.83 1561520188
+Calling Open Weather API:
+    Iteration: 577
+    City: kholm
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kholm
+    Data retrieved 58.76 87 100 1.83 1561520188
+Calling Open Weather API:
+    Iteration: 578
+    City: herat
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=herat
+    Data retrieved 84.2 16 0 11.77 1561520129
+Calling Open Weather API:
+    Iteration: 579
+    City: sharan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sharan
+    Data retrieved 69.2 19 0 7.23 1561520188
+Calling Open Weather API:
+    Iteration: 580
+    City: matay
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=matay
+    Data retrieved 75.68 53 0 10.78 1561520188
+Calling Open Weather API:
+    Iteration: 581
+    City: aswan
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=aswan
+    Data retrieved 89.6 22 0 5.82 1561520188
+Calling Open Weather API:
+    Iteration: 582
+    City: asyut
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=asyut
+    Data retrieved 82.4 48 0 9.17 1561520188
+Calling Open Weather API:
+    Iteration: 583
+    City: khor
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khor
+    Data retrieved 50.48 96 100 6.08 1561520189
+Calling Open Weather API:
+    Iteration: 584
+    City: navodari
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=navodari
+    Data retrieved 75.2 83 0 14.99 1561520189
+Calling Open Weather API:
+    Iteration: 585
+    City: axim
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=axim
+    Data retrieved 76.22 88 100 14.7 1561520189
+Calling Open Weather API:
+    Iteration: 586
+    City: duz
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=duz
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 587
+    City: accrington
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=accrington
+    Data retrieved 57.99 87 90 8.05 1561520189
+Calling Open Weather API:
+    Iteration: 588
+    City: brodick
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=brodick
+    Data retrieved 54 87 20 4.7 1561520189
+Calling Open Weather API:
+    Iteration: 589
+    City: stornoway
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=stornoway
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 590
+    City: lata
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lata
+    Data retrieved 46.7 81 10 4.92 1561520190
+Calling Open Weather API:
+    Iteration: 591
+    City: buala
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=buala
+    Data retrieved 83.96 75 16 8.43 1561520190
+Calling Open Weather API:
+    Iteration: 592
+    City: abu dhabi
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=abu dhabi
+    Data retrieved 93.2 44 0 6.93 1561520139
+Calling Open Weather API:
+    Iteration: 593
+    City: bougouni
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bougouni
+    Data retrieved 78.74 80 54 6.53 1561520190
+Calling Open Weather API:
+    Iteration: 594
+    City: tessalit
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tessalit
+    Data retrieved 92.24 9 0 8.55 1561520190
+Calling Open Weather API:
+    Iteration: 595
+    City: sur
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sur
+    Data retrieved 84.86 62 0 7.96 1561520191
+Calling Open Weather API:
+    Iteration: 596
+    City: senanga
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=senanga
+    Data retrieved 50.66 53 0 4.63 1561520191
+Calling Open Weather API:
+    Iteration: 597
+    City: slonim
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=slonim
+    Data retrieved 61.82 91 100 7.25 1561520191
+Calling Open Weather API:
+    Iteration: 598
+    City: hwange
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hwange
+    Data retrieved 50.12 68 0 3.18 1561520191
+Calling Open Weather API:
+    Iteration: 599
+    City: miraflores
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=miraflores
+    Data retrieved 53.54 94 86 3.27 1561520191
+Calling Open Weather API:
+    Iteration: 600
+    City: warqla
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=warqla
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 601
+    City: victoria
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=victoria
+    Data retrieved 89.6 74 75 3.36 1561520058
+Calling Open Weather API:
+    Iteration: 602
+    City: sai buri
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sai buri
+    Data retrieved 82.4 83 75 3.36 1561520192
+Calling Open Weather API:
+    Iteration: 603
+    City: dovers
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dovers
+    Data retrieved 80.72 83 10 15.41 1561520192
+Calling Open Weather API:
+    Iteration: 604
+    City: la palma
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=la palma
+    Data retrieved 68.84 95 100 4.88 1561520192
+Calling Open Weather API:
+    Iteration: 605
+    City: burica
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=burica
+    City weather data not found
+Calling Open Weather API:
+    Iteration: 606
+    City: marsh harbour
+    URL: http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=marsh harbour
+    Data retrieved 84.86 70 0 3.83 1561520193

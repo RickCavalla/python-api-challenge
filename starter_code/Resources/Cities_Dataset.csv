@@ -1,0 +1,608 @@
+City,Country Code,Latitude,Longitude,URL,Name
+yellowknife,CA,68.62713412645905,-110.40356983103037,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yellowknife,Canada
+attawapiskat,CA,60.33017403909756,-84.5920098425538,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=attawapiskat,Canada
+torbay,CA,47.26583636307055,-45.79411553827495,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=torbay,Canada
+the pas,CA,53.70670133656222,-100.06459623004444,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=the pas,Canada
+iqaluit,CA,62.72322750998558,-73.03923858485099,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=iqaluit,Canada
+tuktoyaktuk,CA,89.72374983246974,-143.33867617937196,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tuktoyaktuk,Canada
+hay river,CA,62.76501042395387,-119.77226959754242,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hay river,Canada
+chapais,CA,53.55414611364748,-73.77783152625193,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chapais,Canada
+port hardy,CA,51.80720639269174,-128.57723224063324,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port hardy,Canada
+norman wells,CA,72.76734492629384,-119.96116608172494,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=norman wells,Canada
+thompson,CA,65.94304149693264,-96.02692678427618,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=thompson,Canada
+haines junction,CA,63.32085115794308,-139.03188849843764,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=haines junction,Canada
+fort nelson,CA,57.42603618809764,-123.0724470107512,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fort nelson,Canada
+pangnirtung,CA,69.53481531140378,-65.08372755490667,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pangnirtung,Canada
+clyde river,CA,67.79446143137537,-76.17383347163825,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=clyde river,Canada
+rimbey,CA,52.55822097461149,-114.06078012583124,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rimbey,Canada
+sept-iles,CA,55.45566008377068,-65.77279636198966,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sept-iles,Canada
+kenora,CA,51.68975916682217,-93.86487566420895,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kenora,Canada
+assiniboia,CA,49.273169448402854,-105.43670148234706,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=assiniboia,Canada
+humboldt,CA,52.30977129000101,-105.65464980396803,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=humboldt,Canada
+thessalon,CA,45.92980693889257,-83.99109035577291,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=thessalon,Canada
+la ronge,CA,56.778279220366926,-104.20060898769805,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=la ronge,Canada
+alexandria,CA,45.40180216259864,-74.51999869674832,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=alexandria,Canada
+hare bay,CA,49.607004741994956,-53.36853008920552,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hare bay,Canada
+dolbeau,CA,54.684106193722755,-71.12488511775209,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dolbeau,Canada
+aklavik,CA,77.91727796835292,-141.30139493815093,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=aklavik,Canada
+mayo,CA,64.68941436221039,-140.9400176115163,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mayo,Canada
+cape town,ZA,-53.588980050062474,-3.5474661244067818,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cape town,South Africa
+bredasdorp,ZA,-59.23155927539632,17.463014286931696,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bredasdorp,South Africa
+plettenberg bay,ZA,-49.63453463671088,24.13382433454322,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=plettenberg bay,South Africa
+hermanus,ZA,-76.22195069248833,-4.420493735673858,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hermanus,South Africa
+kruisfontein,ZA,-58.17637629976258,27.225485025610453,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kruisfontein,South Africa
+saldanha,ZA,-44.019339910291045,-5.228751811481317,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saldanha,South Africa
+kokstad,ZA,-31.05286084814236,29.328696054204443,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kokstad,South Africa
+port alfred,ZA,-64.33550015765437,35.411418990122655,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port alfred,South Africa
+port shepstone,ZA,-30.547808234033702,30.401476873335298,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port shepstone,South Africa
+port elizabeth,ZA,-56.16856918654378,27.961474943096164,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port elizabeth,South Africa
+robertson,ZA,-33.06805434165043,20.43866707846746,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=robertson,South Africa
+east london,ZA,-49.61544858654373,42.83374947581433,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=east london,South Africa
+butterworth,ZA,-32.65764079987012,28.479009887341533,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=butterworth,South Africa
+hobart,AU,-46.46006274713076,148.18594496258032,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hobart,Australia
+carnarvon,AU,-29.453646128881225,87.61828781267656,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=carnarvon,Australia
+roma,AU,-26.187338768309097,146.90050262078068,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=roma,Australia
+albany,AU,-83.01773438954767,99.19266122556587,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=albany,Australia
+busselton,AU,-88.19694744568844,73.81890098446709,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=busselton,Australia
+biloela,AU,-24.43447007826309,150.85121149467403,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=biloela,Australia
+new norfolk,AU,-72.79724495724697,127.7518905180084,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=new norfolk,Australia
+esperance,AU,-42.454969551349976,124.44477024532864,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=esperance,Australia
+alyangula,AU,-13.414877338030792,135.6426126718079,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=alyangula,Australia
+colac,AU,-40.0823487121124,144.14314300205388,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=colac,Australia
+port augusta,AU,-29.381361336663467,137.72164032261549,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port augusta,Australia
+broome,AU,-16.928379076195725,125.46131114130463,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=broome,Australia
+portland,AU,-44.12007526830358,138.0491485089077,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=portland,Australia
+nelson bay,AU,-36.16404433321703,158.65978642763673,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nelson bay,Australia
+mildura,AU,-34.473827208743664,142.81645485645123,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mildura,Australia
+flinders,AU,-36.96483498892596,129.21894641927912,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=flinders,Australia
+mareeba,AU,-16.112210752611446,142.87112070482624,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mareeba,Australia
+emerald,AU,-24.07039921703874,147.60268447503233,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=emerald,Australia
+port hedland,AU,-24.41240655277076,122.42828684032372,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port hedland,Australia
+port lincoln,AU,-45.85155261582134,130.57732313716235,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port lincoln,Australia
+ulladulla,AU,-40.88838325498005,157.9320255530646,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ulladulla,Australia
+wollongong,AU,-34.28984112904399,150.92994007454456,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wollongong,Australia
+ngukurr,AU,-16.28666936637623,135.5088696803794,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ngukurr,Australia
+nhulunbuy,AU,-11.310451328324689,138.3052333715106,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nhulunbuy,Australia
+byron bay,AU,-28.881783068868742,156.54076653071854,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=byron bay,Australia
+yulara,AU,-28.38914475842664,130.64191916316696,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yulara,Australia
+hervey bay,AU,-24.63092491724838,155.40090809089736,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hervey bay,Australia
+karratha,AU,-19.33656636705227,111.41453431045136,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=karratha,Australia
+broken hill,AU,-30.04070490069155,144.21119528478113,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=broken hill,Australia
+roebourne,AU,-22.005118139616286,117.71276841492596,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=roebourne,Australia
+port macquarie,AU,-32.730743739888865,158.48861647905807,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port macquarie,Australia
+mount gambier,AU,-41.41672990999203,136.0923397920456,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mount gambier,Australia
+chokurdakh,RU,87.90437094907122,143.1923798127371,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chokurdakh,Russian Federation
+saskylakh,RU,87.39917668407173,119.9513396233578,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saskylakh,Russian Federation
+cherskiy,RU,68.09076314005853,158.16889669494032,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cherskiy,Russian Federation
+dikson,RU,85.73260632161802,77.34564075685756,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dikson,Russian Federation
+amderma,RU,71.3335696589742,62.14250822560027,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=amderma,Russian Federation
+kytmanovo,RU,53.872486244225,85.34993054104768,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kytmanovo,Russian Federation
+verkhnevilyuysk,RU,65.70982138571605,120.40714468037032,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=verkhnevilyuysk,Russian Federation
+tigil,RU,58.57892290912801,156.5117381590108,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tigil,Russian Federation
+tiksi,RU,76.23337607561214,129.63291215842702,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tiksi,Russian Federation
+kholodnyy,RU,60.7846892838362,147.03522261897882,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kholodnyy,Russian Federation
+mirnyy,RU,63.28559577565261,113.85784149808524,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mirnyy,Russian Federation
+belushya guba,RU,75.87512989845328,50.991193689433544,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=belushya guba,Russian Federation
+kamenka,RU,44.49961693048624,136.07472563984567,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kamenka,Russian Federation
+anadyr,RU,65.81457957789621,176.71689146786576,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=anadyr,Russian Federation
+lukovetskiy,RU,63.67901481978046,42.22338457657784,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lukovetskiy,Russian Federation
+ostrovnoy,RU,70.21762267913016,39.51243036436904,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ostrovnoy,Russian Federation
+nizhneyansk,RU,88.09239480286632,135.94192617467434,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nizhneyansk,Russian Federation
+mys shmidta,RU,87.38588316048086,-177.10649192090824,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mys shmidta,Russian Federation
+nikolskoye,RU,48.71597946285604,166.1631604321302,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nikolskoye,Russian Federation
+tazovskiy,RU,68.07411472566554,79.30293147897459,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tazovskiy,Russian Federation
+okha,RU,55.389928247908415,145.78914794628594,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=okha,Russian Federation
+pervomayskiy,RU,58.41243765850905,49.74299643026919,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pervomayskiy,Russian Federation
+borogontsy,RU,63.4342901975763,131.68043697574927,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=borogontsy,Russian Federation
+beringovskiy,RU,59.08128657206993,177.19702842989722,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=beringovskiy,Russian Federation
+mnogovershinnyy,RU,54.95722295845846,138.9185995707606,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mnogovershinnyy,Russian Federation
+kargopol,RU,61.25884816702094,39.366345938737396,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kargopol,Russian Federation
+oktyabrskiy,RU,57.702768302087094,97.63577406272788,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=oktyabrskiy,Russian Federation
+provideniya,RU,62.278555467785964,-175.4546209150088,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=provideniya,Russian Federation
+taldan,RU,53.34238024846539,125.15421107924965,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=taldan,Russian Federation
+kamen-na-obi,RU,53.61351054044752,81.04986300312589,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kamen-na-obi,Russian Federation
+khatanga,RU,81.21777245622533,106.1974697322027,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khatanga,Russian Federation
+lokosovo,RU,59.81768291310087,74.65909065473335,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lokosovo,Russian Federation
+togur,RU,60.60475818394215,83.71661134661883,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=togur,Russian Federation
+leningradskiy,RU,86.83966859712143,178.86659904710575,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=leningradskiy,Russian Federation
+gayny,RU,60.018487241021546,53.70734853492246,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gayny,Russian Federation
+deputatskiy,RU,76.59368179217171,141.46058181746582,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=deputatskiy,Russian Federation
+synya,RU,63.8157634325172,59.453851083255785,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=synya,Russian Federation
+ordynskoye,RU,54.31628688927387,81.57734272794198,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ordynskoye,Russian Federation
+dauriya,RU,48.48147664651063,115.78727638046945,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dauriya,Russian Federation
+tokur,RU,54.86698176139589,132.78500990471719,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tokur,Russian Federation
+fevralsk,RU,53.393936914235894,130.67485289926867,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fevralsk,Russian Federation
+almaznyy,RU,62.04186230874677,115.57668112128653,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=almaznyy,Russian Federation
+vrangel,RU,42.739455901659085,133.0967338034758,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vrangel,Russian Federation
+staraya kulatka,RU,52.471670208673686,47.682352463341886,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=staraya kulatka,Russian Federation
+petropavlovsk-kamchatskiy,RU,50.30963602254633,160.37091620555634,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=petropavlovsk-kamchatskiy,Russian Federation
+pevek,RU,85.16010039338116,168.42921688349332,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pevek,Russian Federation
+bilibino,RU,68.12574856038745,167.80291499474697,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bilibino,Russian Federation
+tumannyy,RU,72.71144003121447,36.6227372553798,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tumannyy,Russian Federation
+vostok,RU,48.066343731041826,148.4779740511454,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vostok,Russian Federation
+yar-sale,RU,73.4020255866896,73.20068168403463,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yar-sale,Russian Federation
+kamenskoye,RU,64.99591531521892,167.9312514689246,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kamenskoye,Russian Federation
+yerbogachen,RU,63.479306660123314,107.65621983084787,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yerbogachen,Russian Federation
+sentyabrskiy,RU,43.9602017901388,149.93360278896455,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sentyabrskiy,Russian Federation
+lavrentiya,RU,76.5834751684857,-170.54876305665996,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lavrentiya,Russian Federation
+khasan,RU,39.35879617555554,130.55918979212476,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khasan,Russian Federation
+zhigalovo,RU,54.126988251423995,105.12842541169664,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zhigalovo,Russian Federation
+talakan,RU,51.183857427586815,130.28454697624278,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=talakan,Russian Federation
+baykit,RU,67.04023393687706,94.71696368817823,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=baykit,Russian Federation
+srednekolymsk,RU,65.26191438181101,154.79326976167698,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=srednekolymsk,Russian Federation
+gari,RU,59.7636630731017,61.96262530112364,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gari,Russian Federation
+shakhovskaya,RU,56.195049003295566,35.467655389343776,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=shakhovskaya,Russian Federation
+solovetskiy,RU,64.58016081681413,36.648748869046045,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=solovetskiy,Russian Federation
+svetlaya,RU,46.9333844046767,137.28537378985948,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=svetlaya,Russian Federation
+talnakh,RU,76.99556993481133,88.0451360711844,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=talnakh,Russian Federation
+ust-kut,RU,57.56117534907716,105.82484123272246,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ust-kut,Russian Federation
+ola,RU,58.59364159678378,152.93816870168354,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ola,Russian Federation
+kosh-agach,RU,49.840008607887114,89.58535315347041,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kosh-agach,Russian Federation
+usinsk,RU,69.56820976645668,57.391819996951625,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=usinsk,Russian Federation
+khani,RU,56.88542672472013,121.41519888215214,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khani,Russian Federation
+onega,RU,64.32438168883326,37.8305446312724,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=onega,Russian Federation
+komsomolskiy,RU,70.73047286125976,172.3360180291072,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=komsomolskiy,Russian Federation
+magadan,RU,59.53524487968889,150.95215153037037,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=magadan,Russian Federation
+severo-kurilsk,RU,46.13013938207504,156.92937340789877,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=severo-kurilsk,Russian Federation
+suntar,RU,61.57216727140454,117.35117406603183,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=suntar,Russian Federation
+severo-yeniseyskiy,RU,59.65943886929841,93.94196021714765,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=severo-yeniseyskiy,Russian Federation
+ayan,RU,56.95331391355265,138.73399930398313,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ayan,Russian Federation
+blagoveshchensk,RU,55.08212889613176,55.894104575052495,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=blagoveshchensk,Russian Federation
+udachnyy,RU,66.88084543691818,112.6701131040108,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=udachnyy,Russian Federation
+olenegorsk,RU,67.88083434898269,33.34566181639471,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=olenegorsk,Russian Federation
+belyy yar,RU,61.83948251412795,84.82426596204567,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=belyy yar,Russian Federation
+ushuaia,AR,-53.68467064167243,-60.075216919227344,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ushuaia,Argentina
+rio gallegos,AR,-49.890096424049304,-65.46774610204135,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rio gallegos,Argentina
+comodoro rivadavia,AR,-45.439349334039036,-69.39336158925407,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=comodoro rivadavia,Argentina
+mar del plata,AR,-39.15635526795124,-57.20778301474208,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mar del plata,Argentina
+general pico,AR,-35.2802203562426,-63.15934864622771,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=general pico,Argentina
+san juan,AR,-30.479257350442893,-67.96058120019072,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=san juan,Argentina
+reconquista,AR,-29.556006737222745,-59.81696794121045,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=reconquista,Argentina
+tres arroyos,AR,-38.3171181060487,-60.46339382532997,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tres arroyos,Argentina
+necochea,AR,-46.96009349189807,-56.30927260335412,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=necochea,Argentina
+concordia,AR,-31.56778007117974,-58.05484333022868,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=concordia,Argentina
+presidencia roque saenz pena,AR,-26.791383142816166,-60.288743143337584,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=presidencia roque saenz pena,Argentina
+rawson,AR,-45.46132094701027,-64.23411713206124,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rawson,Argentina
+taolanaro,MG,-39.536402621614165,49.25353919570344,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=taolanaro,Madagascar
+tsihombe,MG,-37.76427299870288,47.67788200248128,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tsihombe,Madagascar
+sambava,MG,-12.265994575039656,56.23625712581406,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sambava,Madagascar
+ampanihy,MG,-26.142156269613828,42.77437728129894,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ampanihy,Madagascar
+antsohihy,MG,-15.01279270496606,47.934117333859774,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=antsohihy,Madagascar
+antalaha,MG,-15.119979120744048,53.8231352645729,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=antalaha,Madagascar
+beloha,MG,-32.087105993151475,40.80475352598657,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=beloha,Madagascar
+morondava,MG,-20.0610476424212,40.59168626236499,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=morondava,Madagascar
+bluff,NZ,-56.31066033520775,162.90487210430342,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bluff,New Zealand
+tuatapere,NZ,-45.908682717757124,166.54577073368637,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tuatapere,New Zealand
+kaitangata,NZ,-61.52169192545311,173.50078036204866,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kaitangata,New Zealand
+ahipara,NZ,-36.147377658962995,164.1378194920689,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ahipara,New Zealand
+waharoa,NZ,-37.61799932640051,175.53507971162009,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=waharoa,New Zealand
+whitianga,NZ,-35.6260260975446,177.36022244063327,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=whitianga,New Zealand
+dunedin,NZ,-47.75398016266888,173.71279140110084,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dunedin,New Zealand
+ruatoria,NZ,-33.85938295613208,179.80911256759026,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ruatoria,New Zealand
+kaeo,NZ,-28.251937770332916,173.90253470709092,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kaeo,New Zealand
+christchurch,NZ,-45.762895619647324,175.20419118366328,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=christchurch,New Zealand
+waipawa,NZ,-46.093123090556716,176.79971471873506,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=waipawa,New Zealand
+te anau,NZ,-44.19961381237522,166.58357154582012,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=te anau,New Zealand
+ribeira grande,PT,28.21307097876509,-32.98932421088372,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ribeira grande,Portugal
+camacha,PT,35.40569305674363,-17.896428472181384,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=camacha,Portugal
+praia da vitoria,PT,48.36850752486714,-22.2660068882538,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=praia da vitoria,Portugal
+vila franca do campo,PT,45.45755038925034,-20.686536069982083,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vila franca do campo,Portugal
+lagoa,PT,44.55633048405963,-29.977864234870083,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lagoa,Portugal
+mataura,PF,-53.31360807952284,-156.2800621072083,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mataura,French Polynesia
+atuona,PF,-9.494055647459405,-139.5873150074396,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=atuona,French Polynesia
+moerai,PF,-21.43445273859824,-152.26325254570918,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=moerai,French Polynesia
+vaitape,PF,-17.13863181181749,-153.361734487273,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vaitape,French Polynesia
+rikitea,PF,-20.308432187698983,-137.67776529810885,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rikitea,French Polynesia
+teahupoo,PF,-20.049113703843616,-147.8889275556287,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=teahupoo,French Polynesia
+faanui,PF,-8.082988901757886,-156.13975922646554,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=faanui,French Polynesia
+avera,PF,-31.640551603891346,-154.98226556735898,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=avera,French Polynesia
+manati,CU,22.479301745735555,-76.40149688864031,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=manati,Cuba
+bahia honda,CU,23.57704064146708,-83.44836271619876,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bahia honda,Cuba
+muros,ES,42.88257781199786,-14.096410723133971,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=muros,Spain
+los llanos de aridane,ES,28.09663156649445,-26.73849268347672,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=los llanos de aridane,Spain
+betanzos,ES,43.004019471916365,-8.278362528274357,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=betanzos,Spain
+canals,ES,39.009162293227064,-0.4484434524041774,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=canals,Spain
+mahon,ES,40.30575187182609,5.723878977467535,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mahon,Spain
+bermeo,ES,44.21825801451942,-2.8329047669682836,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bermeo,Spain
+aguimes,ES,25.71399319058196,-15.397020347641131,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=aguimes,Spain
+vaini,TO,-25.896002939722635,-170.5817526254553,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vaini,Tonga
+saint-philippe,RE,-34.9863507983659,61.98223123153841,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-philippe,Réunion
+saint-leu,RE,-23.11099566476078,52.67939662646498,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-leu,Réunion
+saint-joseph,RE,-29.918694325106124,54.395739423205555,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-joseph,Réunion
+chicama,PE,-10.054031101236319,-82.76682621059747,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chicama,Peru
+paramonga,PE,-12.358059923032684,-80.88593022760371,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=paramonga,Peru
+marcona,PE,-22.63380082968466,-85.94380873674113,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=marcona,Peru
+pimentel,PE,-8.005256617333572,-82.22380809966323,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pimentel,Peru
+sechura,PE,-6.6567691694944955,-82.9002216626419,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sechura,Peru
+hualmay,PE,-15.21171106110664,-83.70933007773098,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hualmay,Peru
+pisco,PE,-25.455946548651838,-98.72785143208709,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pisco,Peru
+cayenne,GF,10.228758387032187,-44.87345638957791,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cayenne,French Guiana
+roura,GF,3.996999214074904,-52.83694206413392,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=roura,French Guiana
+saint-georges,GF,3.7770202048582036,-50.504461009084395,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-georges,French Guiana
+sinnamary,GF,11.838099401938152,-49.47762489788283,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sinnamary,French Guiana
+hilo,US,7.902739917651203,-160.96631094532557,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hilo,United States
+kapaa,US,14.389878059943072,-177.66736871827612,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kapaa,United States
+sunrise manor,US,37.130243188013424,-114.78858080665648,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sunrise manor,United States
+havelock,US,32.80584279430029,-74.66006784472279,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=havelock,United States
+pahrump,US,38.04825404603827,-115.69233862554545,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pahrump,United States
+juneau,US,59.43171099830744,-131.96433786206833,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=juneau,United States
+lompoc,US,22.692903228050398,-132.90750246488506,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lompoc,United States
+kodiak,US,40.84254054487806,-149.49138485402582,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kodiak,United States
+rogers,US,36.4993369315775,-94.0030205752292,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rogers,United States
+bethel,US,58.70735766093671,-166.41578604827225,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bethel,United States
+sand springs,US,36.33111760382981,-96.46957274322642,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sand springs,United States
+sitka,US,46.8877837854246,-143.75011226050367,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sitka,United States
+lamar,US,38.52204877728343,-103.53070220109566,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lamar,United States
+crestview,US,31.15980154441479,-86.40085464880852,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=crestview,United States
+homer,US,56.89872747165214,-148.01479899234153,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=homer,United States
+nome,US,61.90968252619254,-168.69499380694356,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nome,United States
+ewa beach,US,20.56629058839019,-158.08067912755538,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ewa beach,United States
+fallon,US,39.7555100479006,-118.34832547487628,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fallon,United States
+lumberton,US,34.29522126014996,-78.85926373009175,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lumberton,United States
+barrow,US,67.43775363966793,-154.09059012584328,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=barrow,United States
+susanville,US,41.399076595640196,-120.20306155764804,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=susanville,United States
+green river,US,41.93681268819722,-109.71473379407688,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=green river,United States
+altamont,US,41.5742399045653,-121.97554128788252,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=altamont,United States
+ketchikan,US,55.81745108484026,-131.9121155422145,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ketchikan,United States
+half moon bay,US,36.982357079499906,-123.18270156603427,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=half moon bay,United States
+albertville,US,34.16933493540702,-86.4632426642443,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=albertville,United States
+pineville,US,31.67512226119588,-92.51664189460017,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pineville,United States
+grand island,US,40.777566534279146,-98.29092453078212,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=grand island,United States
+college station,US,30.898547681369337,-95.99867808110344,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=college station,United States
+ahuimanu,US,29.117662391509242,-154.68160578160325,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ahuimanu,United States
+pacific grove,US,31.469714537821602,-129.71269723977244,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pacific grove,United States
+fairbanks,US,63.41815067941789,-143.8051174501782,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fairbanks,United States
+glendive,US,46.71146877384788,-104.20422332796821,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=glendive,United States
+honolulu,US,20.249863844992277,-157.78435072891028,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=honolulu,United States
+bar harbor,US,43.91726058182897,-68.27727004060105,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bar harbor,United States
+ukiah,US,36.231922204127144,-127.6691474095621,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ukiah,United States
+carbondale,US,37.56622200022797,-89.13055067195693,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=carbondale,United States
+makakilo city,US,12.709751758293905,-162.55822386252848,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=makakilo city,United States
+north myrtle beach,US,31.175088891032516,-77.13843645503478,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=north myrtle beach,United States
+wichita falls,US,34.06476122478962,-98.38411306294694,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wichita falls,United States
+kenai,US,61.41520455311968,-151.11688237794607,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kenai,United States
+vernon,US,33.731133344882394,-100.11756604610684,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vernon,United States
+indiana,US,40.72755151357592,-79.20615913742982,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=indiana,United States
+brownsville,US,35.78330482237418,-89.30060201810662,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=brownsville,United States
+iwanai,JP,44.49377523265602,139.20593897578607,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=iwanai,Japan
+ishinomaki,JP,37.60810897720461,143.09500227159037,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ishinomaki,Japan
+nemuro,JP,43.52919313144827,145.97254326665887,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nemuro,Japan
+hirara,JP,20.40540427108276,126.91017750614787,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hirara,Japan
+hasaki,JP,30.82498705047182,155.26245023972922,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hasaki,Japan
+yomitan,JP,28.249172013549654,125.93300526629508,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yomitan,Japan
+katsuura,JP,24.63308543553711,151.5569554062643,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=katsuura,Japan
+naze,JP,28.2619597891091,132.03927294020906,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=naze,Japan
+punta arenas,CL,-85.83651229378756,-117.2576859493141,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=punta arenas,Chile
+coquimbo,CL,-29.565183140228882,-80.7560385636306,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=coquimbo,Chile
+lebu,CL,-37.16997578731832,-76.71709948002025,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lebu,Chile
+castro,CL,-46.75376111378996,-83.61440445880697,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=castro,Chile
+coihaique,CL,-47.34016539141265,-71.52534860163534,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=coihaique,Chile
+ancud,CL,-42.53009357294236,-94.73810389850479,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ancud,Chile
+taltal,CL,-26.50769709256742,-73.83803053452382,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=taltal,Chile
+antofagasta,CL,-23.068771641652134,-74.3990394599903,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=antofagasta,Chile
+sao francisco,BR,-16.558342996587612,-45.456052753523494,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao francisco,Brazil
+arraial do cabo,BR,-50.699180253262085,-24.569331302262498,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=arraial do cabo,Brazil
+urucara,BR,-0.17959979318089836,-58.99560074976041,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=urucara,Brazil
+sao jose de piranhas,BR,-7.238678114791597,-38.553561000701876,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao jose de piranhas,Brazil
+cidreira,BR,-36.23811565227359,-43.49295146128259,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cidreira,Brazil
+paracatu,BR,-17.535379906249872,-46.600395912994884,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=paracatu,Brazil
+touros,BR,1.7531771093409105,-26.104684090639893,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=touros,Brazil
+monte alegre,BR,-2.230795879781226,-53.82991628751151,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=monte alegre,Brazil
+alenquer,BR,-1.4967701440370575,-54.438522395336946,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=alenquer,Brazil
+rio grande,BR,-33.06613696216571,-49.84995797143915,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rio grande,Brazil
+itagiba,BR,-14.491273342463472,-39.84192834499078,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=itagiba,Brazil
+caceres,BR,-15.41278033379389,-58.303551840668106,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=caceres,Brazil
+belmonte,BR,-16.89302454463079,-32.339079165615175,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=belmonte,Brazil
+caravelas,BR,-19.703563761935513,-35.467079309296395,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=caravelas,Brazil
+sao joao da barra,BR,-31.005575790908097,-26.04899520040192,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao joao da barra,Brazil
+olinda,BR,-9.526598252928409,-25.444220974203205,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=olinda,Brazil
+trairi,BR,4.213569514381334,-35.35454864711457,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=trairi,Brazil
+sao joao de pirabas,BR,0.14322807808736115,-46.418365764715105,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao joao de pirabas,Brazil
+maracaju,BR,-21.523652735710513,-55.429741281325974,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=maracaju,Brazil
+jardim,BR,-2.101515669624476,-37.78210352951555,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=jardim,Brazil
+laguna,BR,-35.70451672720038,-40.29296706496109,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=laguna,Brazil
+pocinhos,BR,-7.102864522215242,-36.065170629402076,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pocinhos,Brazil
+camocim,BR,1.3410866449586223,-40.711038282919304,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=camocim,Brazil
+bonfim,BR,0.6361592725119039,-59.00676918174969,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bonfim,Brazil
+urbano santos,BR,-3.419743637395996,-43.10726278745565,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=urbano santos,Brazil
+ariquemes,BR,-10.142423411555455,-63.40938182103969,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ariquemes,Brazil
+boa vista,BR,1.1612361935887066,-62.11732172594695,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=boa vista,Brazil
+carutapera,BR,3.534873875155469,-43.61320197576731,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=carutapera,Brazil
+piacabucu,BR,-14.782123661968598,-31.48113701763785,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=piacabucu,Brazil
+rawannawi,KI,3.9499422064260443,177.39850524546682,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=rawannawi,Kiribati
+butaritari,KI,12.626789397757861,168.5416390712969,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=butaritari,Kiribati
+buariki,KI,1.6895121484805316,169.22352500360807,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=buariki,Kiribati
+avarua,CK,-18.42027105456009,-159.5366867211617,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=avarua,Cook Islands
+barentsburg,SJ,74.17631029700098,7.1995903197816915,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=barentsburg,Svalbard and Jan Mayen
+longyearbyen,SJ,84.48345472721005,18.596330692354144,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=longyearbyen,Svalbard and Jan Mayen
+labuhan,ID,-15.814875552776726,97.5507972134547,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=labuhan,Indonesia
+bengkulu,ID,-21.958989630813008,89.48702161389633,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bengkulu,Indonesia
+ambon,ID,-5.1252327997953415,129.10858287278842,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ambon,Indonesia
+waingapu,ID,-13.669975157786666,118.33338144991819,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=waingapu,Indonesia
+sorong,ID,0.0680579499413767,130.0124456328561,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sorong,Indonesia
+srandakan,ID,-9.020289525788627,109.52553068254929,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=srandakan,Indonesia
+indramayu,ID,-4.615499832699285,108.56722331324721,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=indramayu,Indonesia
+kendari,ID,-3.1634148377151234,122.75356774445373,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kendari,Indonesia
+bima,ID,-6.904960218404071,118.06145177647682,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bima,Indonesia
+pringsewu,ID,-5.528567494823278,104.68341618283853,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pringsewu,Indonesia
+kualakapuas,ID,-2.5612016917888667,113.80169442635696,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kualakapuas,Indonesia
+sampit,ID,-1.4283702287959983,113.46534184198623,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sampit,Indonesia
+singaraja,ID,-7.384361044522535,114.98842412313547,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=singaraja,Indonesia
+banjarmasin,ID,-5.057918467740976,113.6960789805596,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=banjarmasin,Indonesia
+tidore,ID,-0.5653668354946007,126.47617884018564,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tidore,Indonesia
+amahai,ID,-2.522324928631619,129.65219400573943,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=amahai,Indonesia
+palabuhanratu,ID,-8.64378210256622,104.71611992155528,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=palabuhanratu,Indonesia
+kupang,ID,-11.25764541507833,124.08673318111761,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kupang,Indonesia
+ternate,ID,1.8256480802585457,128.5153297449205,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ternate,Indonesia
+sungairaya,ID,-0.01805425400378624,108.46815346746314,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sungairaya,Indonesia
+sumbawa,ID,-7.206229195350318,117.31594143144116,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sumbawa,Indonesia
+gorontalo,ID,0.6971469896815137,122.76611488070847,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gorontalo,Indonesia
+biak,ID,0.054474899771065566,137.7210095305573,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=biak,Indonesia
+sorland,NO,70.17667083721881,11.097447314090118,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sorland,Norway
+vardo,NO,88.38921577976015,38.75109765430324,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vardo,Norway
+havoysund,NO,76.76664171784287,24.248695673985566,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=havoysund,Norway
+nesna,NO,66.86339275356053,12.888052996382072,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nesna,Norway
+sistranda,NO,70.92174253845448,5.012448991512429,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sistranda,Norway
+mehamn,NO,79.44083950321905,27.21815165044532,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mehamn,Norway
+skjervoy,NO,73.15301664394715,19.548337784387172,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=skjervoy,Norway
+bud,NO,63.741767274977235,6.77577231496727,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bud,Norway
+groa,NO,62.84818879282196,8.79437328064401,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=groa,Norway
+zhangye,CN,39.39295740392376,101.15803853922426,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zhangye,China
+altay,CN,47.35847774177407,87.59376875975863,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=altay,China
+yakeshi,CN,49.01966413583861,121.45100402478465,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yakeshi,China
+tongren,CN,27.763148304084623,109.15613665852135,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tongren,China
+dafeng,CN,33.20264831870415,121.07902583370117,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dafeng,China
+nangong,CN,37.62418583809877,115.43898582804536,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=nangong,China
+pingzhuang,CN,41.90179468237898,119.09098709667899,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pingzhuang,China
+wuchang,CN,44.99272361912398,127.54018543556413,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wuchang,China
+dengfeng,CN,34.50914915994176,112.88629563439935,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dengfeng,China
+luan,CN,31.533143093525467,115.89273194117146,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=luan,China
+hami,CN,43.55842831172123,93.56972527606251,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hami,China
+ninghai,CN,36.85936934110492,121.36652286305241,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ninghai,China
+tongzi,CN,28.158517262527653,107.15439194008019,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tongzi,China
+beidao,CN,33.65697603736275,105.56392619823163,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=beidao,China
+hailar,CN,47.17987557476167,118.59745915367472,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hailar,China
+yumen,CN,37.51423907813333,97.13382544964367,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yumen,China
+xichang,CN,28.83900289482628,101.96258380966253,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=xichang,China
+shache,CN,38.8307036851331,79.47582578926142,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=shache,China
+lanzhou,CN,36.01122866951083,103.4802361175008,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lanzhou,China
+lasa,CN,33.63707172880399,94.72968731097268,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lasa,China
+chifeng,CN,43.421785215870074,118.7105695403855,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chifeng,China
+zhuanghe,CN,39.46776437880888,123.41224057007577,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zhuanghe,China
+dongsheng,CN,41.339913618972645,108.62102396391435,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dongsheng,China
+zhengjiatun,CN,43.84233676339099,123.48896263079138,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zhengjiatun,China
+korla,CN,38.03832599630235,85.95646642801523,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=korla,China
+bhadrachalam,IN,18.16178930848129,80.74907063147208,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bhadrachalam,India
+daosa,IN,26.80537594256687,76.33927447683078,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=daosa,India
+port blair,IN,8.324993558613642,90.14905788025015,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port blair,India
+kollam,IN,7.873044579258064,75.45913658352413,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kollam,India
+kavaratti,IN,11.844042320675456,72.06977485887467,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kavaratti,India
+madras,IN,12.486505569440439,81.80434842656047,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=madras,India
+naliya,IN,23.452899940025546,68.39109800497238,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=naliya,India
+asifabad,IN,19.438880612919846,79.22166886145851,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=asifabad,India
+gangotri,IN,33.02298722205647,80.29065595412402,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gangotri,India
+harda,IN,22.015204933229853,77.23142382543222,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=harda,India
+ramnagar,IN,32.710932881952715,75.22218232535388,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ramnagar,India
+tharad,IN,24.532334224405048,71.47894288637531,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tharad,India
+ghatsila,IN,22.78858309806867,86.48017092201655,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ghatsila,India
+leh,IN,34.69932695781111,82.78022326417056,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=leh,India
+dalkola,IN,25.917499840069254,87.83430316657717,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dalkola,India
+mayor pablo lagerenza,PY,-19.86968968105596,-60.00860965840036,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mayor pablo lagerenza,Paraguay
+lorengau,PG,7.976461149361754,149.3024757257037,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lorengau,Papua New Guinea
+namatanai,PG,2.176465347088765,158.37997131122228,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=namatanai,Papua New Guinea
+kavieng,PG,8.862542501634564,156.37750370248978,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kavieng,Papua New Guinea
+port moresby,PG,-9.80610575683329,146.2619304837744,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port moresby,Papua New Guinea
+kieta,PG,0.2582740766651739,160.77230812003984,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kieta,Papua New Guinea
+kerema,PG,-8.930074271780057,145.24941527547878,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kerema,Papua New Guinea
+vanimo,PG,-1.8057227072844455,139.22446395094926,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vanimo,Papua New Guinea
+samarai,PG,-12.25638930574479,154.77977117401701,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=samarai,Papua New Guinea
+faya,TD,19.597521600669197,23.468341061909854,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=faya,Chad
+adre,TD,12.51161714814036,23.29709275648807,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=adre,Chad
+moussoro,TD,15.732022229481444,17.16646953214004,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=moussoro,Chad
+ati,TD,13.40094140733406,18.67168400917393,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ati,Chad
+am timan,TD,11.256759500025112,19.849967736848527,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=am timan,Chad
+sulangan,PH,12.6505240948659,131.42059702037,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sulangan,Philippines
+tagusao,PH,12.119058554175751,115.45109068597554,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tagusao,Philippines
+cabugao,PH,17.809336579621856,120.5456481786511,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cabugao,Philippines
+basco,PH,20.73673258808641,122.49958135336715,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=basco,Philippines
+san policarpo,PH,13.828920431152554,130.31300738553392,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=san policarpo,Philippines
+santa cruz,PH,13.164307378252062,120.71433354332368,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=santa cruz,Philippines
+tubajon,PH,10.16010441291327,125.62598771562466,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tubajon,Philippines
+tuburan,PH,6.413389028064813,122.49944926874684,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tuburan,Philippines
+palauig,PH,15.058862713357996,118.23668004595413,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=palauig,Philippines
+bathsheba,BB,18.31587876117429,-48.89561196078719,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bathsheba,Barbados
+kristiinankaupunki,FI,62.63111747905279,20.840215011606716,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kristiinankaupunki,Finland
+villamontes,BO,-21.110848584067497,-63.06860645812458,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=villamontes,"Bolivia, Plurinational State of"
+patacamaya,BO,-17.017654510348407,-68.27049645637514,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=patacamaya,"Bolivia, Plurinational State of"
+arriaga,MX,16.112626756621893,-94.02514497570431,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=arriaga,Mexico
+guerrero negro,MX,23.25467984789057,-120.05914817414543,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=guerrero negro,Mexico
+cabo san lucas,MX,8.073398397068232,-117.5408502235768,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cabo san lucas,Mexico
+puerto escondido,MX,6.430849544125408,-101.30087893632309,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=puerto escondido,Mexico
+caborca,MX,30.404840836227024,-112.76672313479922,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=caborca,Mexico
+san patricio,MX,10.927908353723296,-108.81902089406222,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=san patricio,Mexico
+casas grandes,MX,30.25034058074141,-108.49121645351471,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=casas grandes,Mexico
+tekax,MX,19.94900355453086,-89.27259156094262,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tekax,Mexico
+reynosa,MX,25.483688619729122,-98.5491031008282,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=reynosa,Mexico
+aguililla,MX,18.93537332393457,-102.80937448116302,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=aguililla,Mexico
+coahuayana,MX,1.699180492332161,-112.08498413263517,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=coahuayana,Mexico
+puerto madero,MX,13.41121911903123,-93.84396603450195,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=puerto madero,Mexico
+isla mujeres,MX,23.307824360020632,-86.37846136545929,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=isla mujeres,Mexico
+illoqqortoormiut,GL,81.44351804938597,-27.819188485020533,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=illoqqortoormiut,Greenland
+upernavik,GL,88.5261071815832,-57.049360514061675,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=upernavik,Greenland
+qaanaaq,GL,85.48219537117637,-77.12028716636136,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=qaanaaq,Greenland
+paamiut,GL,64.2669817261939,-48.2095291610222,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=paamiut,Greenland
+qasigiannguit,GL,68.26957573311873,-50.0095619938254,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=qasigiannguit,Greenland
+maniitsoq,GL,62.52734363689183,-58.25870844827777,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=maniitsoq,Greenland
+narsaq,GL,75.82005841884,-66.53615635769962,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=narsaq,Greenland
+sisimiut,GL,66.11551694701365,-59.666709735820916,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sisimiut,Greenland
+tasiilaq,GL,78.28494975015013,-39.27556139717453,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tasiilaq,Greenland
+qaqortoq,GL,63.11838782443738,-44.83577383549965,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=qaqortoq,Greenland
+samusu,WS,-13.363461979276423,-167.63018957807856,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=samusu,Samoa
+saleaula,WS,5.049736661172346,-170.87486924515605,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saleaula,Samoa
+falealupo,WS,-10.1476405179274,-174.0252408349072,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=falealupo,Samoa
+sorvag,FO,63.74118037290879,-8.736702610267912,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sorvag,Faroe Islands
+klaksvik,FO,70.05283224465515,-7.51169048489146,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=klaksvik,Faroe Islands
+vestmanna,FO,66.29209484850156,-9.240558081482135,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vestmanna,Faroe Islands
+fereydun kenar,IR,37.950689888824925,51.978032745223885,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fereydun kenar,"Iran, Islamic Republic of"
+ashtian,IR,34.26732196095578,50.179152106931696,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ashtian,"Iran, Islamic Republic of"
+taft,IR,31.366665910167114,53.51439308762835,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=taft,"Iran, Islamic Republic of"
+westport,IE,56.26511913744258,-16.309431886747603,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=westport,Ireland
+dingle,IE,47.19098904294745,-18.37670620646395,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dingle,Ireland
+ginda,ER,16.523565347933086,38.22317267374342,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ginda,Eritrea
+gunjur,GM,12.221770926518332,-18.824432470070576,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gunjur,Gambia
+mahebourg,MU,-37.1222751402426,70.38591829396546,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mahebourg,Mauritius
+bambous virieux,MU,-39.04308817154409,81.60769572207516,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bambous virieux,Mauritius
+grand river south east,MU,-20.813434529308992,61.25179925175661,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=grand river south east,Mauritius
+souillac,MU,-37.22366574978461,65.1456589675513,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=souillac,Mauritius
+hobyo,SO,2.821646741522869,51.612225720066306,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hobyo,Somalia
+eyl,SO,8.344494012632794,50.83892715465777,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=eyl,Somalia
+puerto ayora,EC,-0.12184493502724081,-90.45351507975094,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=puerto ayora,Ecuador
+muisne,EC,1.7252174033081928,-82.14858908908619,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=muisne,Ecuador
+manta,EC,1.1432713912185477,-84.78873649451783,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=manta,Ecuador
+san cristobal,EC,1.4823502077763777,-87.37606718301575,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=san cristobal,Ecuador
+jamestown,SH,-12.233741478671533,0.47688003680798374,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=jamestown,"Saint Helena, Ascension and Tristan da Cunha"
+georgetown,SH,-3.5300865264228776,-19.08181314486785,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=georgetown,"Saint Helena, Ascension and Tristan da Cunha"
+luanda,AO,-8.463205854275614,12.960065330936544,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=luanda,Angola
+namibe,AO,-16.46874702984323,12.682484925561084,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=namibe,Angola
+menongue,AO,-14.819696709036322,19.376134151758293,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=menongue,Angola
+omboue,GA,-5.336554450976678,3.0231908526640154,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=omboue,Gabon
+gamba,GA,-7.227011384933363,2.467040210526278,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gamba,Gabon
+port-gentil,GA,0.5684362668317391,5.11609777219121,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=port-gentil,Gabon
+waddan,LY,28.105263937425917,18.011851555960988,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=waddan,Libya
+gat,LY,25.017562667472873,10.035214558950912,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gat,Libya
+hithadhoo,MV,-6.418890137603682,79.018720227664,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hithadhoo,Maldives
+kapit,MY,1.5264798497175036,113.97304453839212,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kapit,Malaysia
+banting,MY,2.671203624573536,100.7661539427258,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=banting,Malaysia
+ornskoldsvik,SE,65.33498393269889,17.442038008867,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ornskoldsvik,Sweden
+kiruna,SE,67.26562139383336,21.517619791887398,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kiruna,Sweden
+kaffrine,SN,14.03888078470031,-15.699640596851765,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kaffrine,Senegal
+pavilosta,LV,57.77084340478507,20.142888195309837,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pavilosta,Latvia
+ventspils,LV,57.91025542690355,20.766200133156445,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ventspils,Latvia
+slavonski brod,HR,45.127307653122244,18.18201117928146,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=slavonski brod,Croatia
+senj,HR,44.90340755011047,15.08575125539528,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=senj,Croatia
+ponta do sol,CV,24.34450098867859,-34.974059212544745,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ponta do sol,Cape Verde
+sao filipe,CV,11.442173109000393,-31.95067706301765,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sao filipe,Cape Verde
+sal rei,CV,15.806708476115944,-22.76635986456634,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sal rei,Cape Verde
+luganville,VU,-15.97174263965313,165.67512909942815,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=luganville,Vanuatu
+isangel,VU,-17.086406083909807,174.70188147101345,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=isangel,Vanuatu
+vila,VU,-17.145655430164553,169.41593086907227,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vila,Vanuatu
+mitsamiouli,KM,-7.10314743489748,45.376230869645354,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mitsamiouli,Comoros
+moroni,KM,-11.919221834129885,42.49091226904244,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=moroni,Comoros
+yenagoa,NG,1.0385602395404447,4.13602922386977,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=yenagoa,Nigeria
+pathein,MM,16.783062511221758,92.00819608200646,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=pathein,Myanmar
+mergui,MM,12.009074834837904,98.77273571625165,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mergui,Myanmar
+dawei,MM,13.797548315063366,96.42321677185072,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dawei,Myanmar
+ochamchira,GE,42.58916037159577,41.53789315895301,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ochamchira,Georgia
+plouzane,FR,48.293682536714726,-5.298566867754346,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=plouzane,France
+sens,FR,48.366491485883046,3.4186100167872553,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sens,France
+saint george,BM,34.161543092298885,-52.2302526927604,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint george,Bermuda
+hamilton,BM,34.01577375189214,-67.55370810766034,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hamilton,Bermuda
+sarkand,KZ,45.68449734984313,79.887866424104,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sarkand,Kazakhstan
+inderborskiy,KZ,48.54607174443731,51.73158205024626,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=inderborskiy,Kazakhstan
+ushtobe,KZ,45.52071024600892,78.4722143385722,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ushtobe,Kazakhstan
+boralday,KZ,43.68549804509854,76.99524271521653,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=boralday,Kazakhstan
+ekibastuz,KZ,52.44642510808231,75.30174099943713,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ekibastuz,Kazakhstan
+belousovka,KZ,50.29475196348724,82.82301608436148,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=belousovka,Kazakhstan
+fort-shevchenko,KZ,44.02458174857932,50.03607580083067,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=fort-shevchenko,Kazakhstan
+karacakoy,TR,41.64734207443047,28.421980886316504,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=karacakoy,Turkey
+kumluca,TR,35.63811479691714,30.374750800063026,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kumluca,Turkey
+kulu,TR,39.32030878073226,33.1545677112461,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kulu,Turkey
+hendek,TR,40.68783350258806,30.498728254564384,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hendek,Turkey
+butzow,DE,53.81884598175708,11.80281317480916,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=butzow,Germany
+noumea,NC,-29.194984448961257,162.6974196717734,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=noumea,New Caledonia
+poya,NC,-25.765261447893906,162.1490074616675,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=poya,New Caledonia
+bosobolo,CD,3.908456201583789,20.291340028015412,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bosobolo,"Congo, the Democratic Republic of the"
+kisangani,CD,-1.269845082864066,25.066061801932193,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kisangani,"Congo, the Democratic Republic of the"
+wamba,CD,2.364942115657982,28.749567279309304,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wamba,"Congo, the Democratic Republic of the"
+mbanza-ngungu,CD,-6.1416266525443035,15.02125017419553,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mbanza-ngungu,"Congo, the Democratic Republic of the"
+goma,CD,-1.71031899102681,28.428173173523874,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=goma,"Congo, the Democratic Republic of the"
+boende,CD,0.0025172779152882185,22.400618911160905,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=boende,"Congo, the Democratic Republic of the"
+chuy,UY,-53.877924977800134,-34.261202320426605,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=chuy,Uruguay
+goderich,SL,7.17906876623384,-15.20869386536205,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=goderich,Sierra Leone
+lungi,SL,8.672482548647963,-13.300416972548163,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lungi,Sierra Leone
+hofn,IS,63.224209650890316,-11.303602946818415,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hofn,Iceland
+grindavik,IS,61.54013000487399,-23.47555925345921,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=grindavik,Iceland
+vestmannaeyjar,IS,57.34469188164729,-20.998120082533262,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vestmannaeyjar,Iceland
+bolungarvik,IS,68.10724879313912,-28.067366625143904,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bolungarvik,Iceland
+dalbandin,PK,29.48850214785074,64.9036924496751,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dalbandin,Pakistan
+harnoli,PK,32.24824012441269,71.49281162190337,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=harnoli,Pakistan
+mingaora,PK,34.871017628761095,72.91893454942317,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mingaora,Pakistan
+sangmelima,CM,2.750736708381467,13.050407702082055,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sangmelima,Cameroon
+poli,CM,8.404743013669218,12.598259570275559,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=poli,Cameroon
+wum,CM,6.717136220077492,9.574117714656154,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=wum,Cameroon
+ginir,ET,6.18040919469756,41.25438272144362,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=ginir,Ethiopia
+tyup,KG,43.60464329637543,78.6705710879852,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tyup,Kyrgyzstan
+matara,LK,-1.0067752078877419,82.65757301613405,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=matara,Sri Lanka
+point pedro,LK,10.945365355495312,81.79839114680698,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=point pedro,Sri Lanka
+hambantota,LK,3.5405047945150443,86.20161180820588,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hambantota,Sri Lanka
+buraydah,SA,26.288217877240342,40.66424561281099,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=buraydah,Saudi Arabia
+riyadh,SA,24.065058329653255,48.116904852616585,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=riyadh,Saudi Arabia
+mecca,SA,20.411364218056136,41.517215805435285,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mecca,Saudi Arabia
+saint-pierre,PM,39.12069359385404,-53.36922018183347,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=saint-pierre,Saint Pierre and Miquelon
+hovd,MN,43.58804262571232,102.85804227457635,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hovd,Mongolia
+bulgan,MN,47.886283061969436,104.11158824760042,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bulgan,Mongolia
+baruun-urt,MN,46.20661339886249,114.61181585059524,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=baruun-urt,Mongolia
+mwingi,KE,-0.36702485002589924,38.52433364744613,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=mwingi,Kenya
+tonj,SD,6.284961490662184,28.454748951918447,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tonj,Sudan
+kutum,SD,18.245869403895398,24.062792010379837,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kutum,Sudan
+umm kaddadah,SD,12.462673176052434,25.58401807571721,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=umm kaddadah,Sudan
+navabad,TJ,38.98413404330782,70.01110444084875,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=navabad,Tajikistan
+bilma,NE,16.695303158600098,12.098518492514415,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bilma,Niger
+arlit,NE,20.24731097869946,9.896846210561279,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=arlit,Niger
+gizycko,PL,54.03087759794013,21.75214294875724,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gizycko,Poland
+kivsharivka,UA,49.606061201323456,37.56860587542735,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kivsharivka,Ukraine
+zaozerne,UA,44.91089355945047,32.75725057574252,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=zaozerne,Ukraine
+linden,GY,6.012881114115672,-57.933763513138075,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=linden,Guyana
+lethem,GY,3.9258948283947177,-58.96511771895402,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lethem,Guyana
+kilindoni,TZ,-7.202647883559365,43.56818300338702,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kilindoni,"Tanzania, United Republic of"
+liwale,TZ,-9.716642952824344,37.35701031477316,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=liwale,"Tanzania, United Republic of"
+netivot,IL,31.439255684174228,34.421370531928176,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=netivot,Israel
+airai,PW,9.905178258453304,142.79068025702998,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=airai,Palau
+den helder,NL,54.19659384394862,3.527675187332335,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=den helder,Netherlands
+murgab,TM,38.242112274903235,62.24440111224399,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=murgab,Turkmenistan
+gazanjyk,TM,40.89412068648022,55.84713344813221,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=gazanjyk,Turkmenistan
+vaitupu,WF,-1.671919770160514,-178.3270596285641,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=vaitupu,Wallis and Futuna
+liku,WF,-13.81296383989745,-174.5833920686999,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=liku,Wallis and Futuna
+lobatse,BW,-25.37578188074002,25.552145134802515,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lobatse,Botswana
+werda,BW,-25.283888748775922,24.042858284068615,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=werda,Botswana
+jacmel,HT,16.47010219035714,-72.70255752962929,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=jacmel,Haiti
+lchashen,AM,40.462199698637534,44.96464201784434,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lchashen,Armenia
+koilas,GR,37.38405622582975,23.084703181630232,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=koilas,Greece
+tachov,CZ,49.66982063874366,12.585641753277912,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tachov,Czech Republic
+cockburn town,TC,23.539792423854166,-66.82012636849709,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=cockburn town,Turks and Caicos Islands
+bodden town,KY,18.730561027591364,-81.27093389455457,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bodden town,Cayman Islands
+butgenbach,BE,50.38589158330478,6.1848029427555105,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=butgenbach,Belgium
+quba,AZ,41.188258716303295,48.5390835378611,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=quba,Azerbaijan
+codrington,AG,24.07872390129397,-58.08249946633542,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=codrington,Antigua and Barbuda
+sayyan,YE,15.599463098419193,46.90992402163744,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sayyan,Yemen
+khandbari,NP,30.23372480962678,87.41780244749629,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khandbari,Nepal
+kholm,AF,36.841367357136676,67.70200692801484,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=kholm,Afghanistan
+herat,AF,35.80481546484833,62.604723512156056,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=herat,Afghanistan
+sharan,AF,32.27026742053734,68.09662990529779,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sharan,Afghanistan
+matay,EG,28.80866128670135,29.183903946427677,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=matay,Egypt
+aswan,EG,22.878582036404936,34.8330844339188,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=aswan,Egypt
+asyut,EG,26.019384843653896,28.874082941894017,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=asyut,Egypt
+khor,QA,26.893391842723915,52.36920586214481,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=khor,Qatar
+navodari,RO,44.29282577723873,28.60190182733976,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=navodari,Romania
+axim,GH,-1.5150206669745643,-3.543469392563651,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=axim,Ghana
+duz,TN,32.56871804809941,8.891843319104396,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=duz,Tunisia
+accrington,GB,53.78309791533016,-2.4124160284692096,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=accrington,United Kingdom
+brodick,GB,55.665723126194564,-5.285092510691868,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=brodick,United Kingdom
+stornoway,GB,58.22785863182287,-10.17747825783701,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=stornoway,United Kingdom
+lata,SB,-11.30993511783457,165.64644195689982,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=lata,Solomon Islands
+buala,SB,-1.0978747578774062,161.53330071250775,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=buala,Solomon Islands
+abu dhabi,AE,21.307362873669874,53.59658922215792,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=abu dhabi,United Arab Emirates
+bougouni,ML,11.339166825940552,-7.142539038061045,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=bougouni,Mali
+tessalit,ML,20.99515600814847,-0.8796946690997629,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=tessalit,Mali
+sur,OM,21.892342780712454,59.55592138301256,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sur,Oman
+senanga,ZM,-16.302234795256,21.694201697850445,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=senanga,Zambia
+slonim,BY,53.26451069226519,25.642532347816513,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=slonim,Belarus
+hwange,ZW,-18.232620904763323,26.20417197424925,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=hwange,Zimbabwe
+miraflores,CO,-0.10523569135813204,-71.27291820647454,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=miraflores,Colombia
+warqla,DZ,31.143007888854683,7.32450510322542,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=warqla,Algeria
+victoria,SC,-3.585329375897544,49.447726376651076,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=victoria,Seychelles
+sai buri,TH,8.433084742348996,102.7677069863384,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=sai buri,Thailand
+dovers,VC,12.636169313086825,-60.47110863562813,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=dovers,Saint Vincent and the Grenadines
+la palma,PA,5.522157305908706,-79.94588724361229,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=la palma,Panama
+burica,PA,4.480580823396394,-83.27722254524235,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=burica,Panama
+marsh harbour,BS,27.550388847274675,-75.62079173676895,http://api.openweathermap.org/data/2.5/weather?appid=fe26e61e3773caebdade519f9d254704&units=imperial&q=marsh harbour,Bahamas
